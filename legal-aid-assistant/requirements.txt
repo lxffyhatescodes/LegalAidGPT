@@ -1,0 +1,14 @@
+# Core dependencies (all run locally; no external APIs)
+pymupdf>=1.24          # PDF text extraction (P4)
+python-docx>=1.1       # DOCX extraction (P4)
+beautifulsoup4>=4.12   # HTML extraction (P4)
+sentence-transformers>=3.0   # local embedding model (P6)
+faiss-cpu>=1.8         # local vector index (P6)
+numpy>=1.26
+pandas>=2.0
+pytest>=8.0            # testing (P9)
+streamlit>=1.38        # web UI, runs locally in the browser (P1/P2)
+
+# Local LLM (pick ONE route, see README):
+# Route A, in-process (no server): pip install llama-cpp-python
+# Route B, local server:           install Ollama from ollama.com, then: pip install ollama
