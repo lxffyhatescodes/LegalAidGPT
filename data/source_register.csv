@@ -1,0 +1,27 @@
+doc_id,title,file,problem_area,doc_type,status,source_url,date_downloaded,canonical,notes
+constitution_1999,Constitution of the Federal Republic of Nigeria 1999,constitution_1999.pdf,all_areas,statute,ok,,2026-10-30,yes,
+acja_2015,Administration of Criminal Justice Act 2015,acja_2015.pdf,arrest,statute,ok,,2026-10-30,yes,
+police_act_2020,Police Act 2020,police_act_2020.pdf,arrest,statute,ok,,2026-10-30,yes,Official Gazette copy
+frep_rules_2009,Fundamental Rights (Enforcement Procedure) Rules 2009,frep_rules_2009.pdf,arrest,rules,ok,,2026-10-30,yes,
+land_use_act_1978,Land Use Act 1978 (Cap L5),land_use_act_1978.pdf,land,statute,ok,,2026-10-30,yes,
+land_judgment_edo_1,Edo State High Court judgment (topic to confirm),land_judgment_edo_1.pdf,land,judgment,confirm_topic,,2026-10-30,yes,
+esezobor_v_emowele_hcu_33_2018,"Esezobor v Emowele, HCU/33/2018 (Edo High Court)",esezobor_v_emowele_hcu_33_2018.pdf,land,judgment,confirm_topic,,2026-10-30,yes,
+land_judgment_edo_3,Edo State High Court judgment (topic to confirm),land_judgment_edo_3.pdf,land,judgment,confirm_topic,,2026-10-30,yes,
+tenant_rights_starter_pack,Nigeria Tenant Rights Legal Document Starter Pack,tenant_rights_starter_pack.pdf,tenant,guide,check_author,,2026-10-30,yes,
+fccpa_2018,Federal Competition and Consumer Protection Act 2018,fccpa_2018.pdf,consumer,statute,ok,,2026-10-30,yes,
+fccpc_admin_penalties_regs_2020,FCCPC Administrative Penalties Regulations 2020,fccpc_admin_penalties_regs_2020.pdf,consumer,regulation,ok,,2026-10-30,yes,
+cbn_consumer_protection_regs,CBN Consumer Protection Regulations,cbn_consumer_protection_regs.pdf,consumer,regulation,ok,,2026-10-30,yes,
+deon_consumer_lending_guidelines_2025,DEON Consumer Lending Guidelines 2025,deon_consumer_lending_guidelines_2025.pdf,consumer,guideline,ok,,2026-10-30,yes,
+digital_lending_regs_2025,"Digital, Electronic, Online or Non-Traditional Consumer Lending Regulations 2025",digital_lending_regs_2025.pdf,consumer,regulation,ok,,2026-10-30,yes,
+fccp_consumer_regs_exposure_draft,FCCP Consumer Protection Regulations (Exposure Draft),fccp_consumer_regs_exposure_draft.pdf,consumer,regulation,draft_not_in_force,,2026-10-30,no,
+legal_aid_act_2011,Legal Aid Act 2011,legal_aid_act_2011.pdf,legal_assistance,statute,bill_text_verify,,2026-10-30,yes,Copy is labelled A BILL; replace with gazetted Act
+marriage_act_cap_m6,Marriage Act (Cap M6),marriage_act_cap_m6.pdf,marriage,statute,ok,,2026-10-30,yes,
+matrimonial_causes_act_cap_m7,Matrimonial Causes Act (Cap M7),matrimonial_causes_act_cap_m7.pdf,marriage,statute,ok,,2026-10-30,yes,
+vapp_act_2015,Violence Against Persons (Prohibition) Act 2015,vapp_act_2015.pdf,marriage,statute,excluded_scanned_only,,2026-10-30,yes,Only scanned copies found; scan kept in data/excluded/
+fct_customary_court_act_2007,FCT Customary Court Act 2007,fct_customary_court_act_2007.pdf,marriage,statute,ok,,2026-10-30,yes,
+child_rights_act_2003,Child's Right Act 2003,child_rights_act_2003.pdf,marriage,statute,ok_canonical,,2026-10-30,yes,
+customary_marriage_article,Customary Law Marriage in Nigeria (article),customary_marriage_article.pdf,marriage,article,secondary_source,,2026-10-30,yes,
+contract_customary_islamic_article,Principles of Contract under Customary and Islamic Law (article),contract_customary_islamic_article.pdf,support,article,secondary_source,,2026-10-30,yes,
+un_crc_convention,UN Convention on the Rights of the Child,un_crc_convention.pdf,support,treaty,international_not_nigerian_law,,2026-10-30,yes,
+labour_act_cap_l1,Labour Act (Cap L1),labour_act_cap_l1.pdf,employment,statute,ok,,2026-10-30,yes,Mainly covers manual and clerical workers
+employee_compensation_act_2010,Employees' Compensation Act 2010,employee_compensation_act_2010.pdf,employment,statute,ok,,2026-10-30,yes,Official Gazette copy
