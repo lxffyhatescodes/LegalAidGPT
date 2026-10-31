@@ -4,11 +4,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 # --- Data paths ---
-RAW_DIR = ROOT / "data" / "raw"
-CLEAN_DIR = ROOT / "data" / "clean"
-CHUNKS_FILE = ROOT / "data" / "chunks.jsonl"
-INDEX_DIR = ROOT / "data" / "index"
-SOURCE_REGISTER = ROOT / "data" / "source_register.csv"
+DATA_DIR = ROOT.parent / "data"
+RAW_DIR = DATA_DIR / "raw"
+CLEAN_DIR = DATA_DIR / "clean"
+CHUNKS_FILE = DATA_DIR / "chunks.jsonl"
+INDEX_DIR = DATA_DIR / "index"
+SOURCE_REGISTER = DATA_DIR / "source_register.csv"
 
 # --- Retrieval (P6) ---
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"  # small, English; swap if needed
