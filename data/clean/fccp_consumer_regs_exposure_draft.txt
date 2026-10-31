@@ -1,0 +1,891 @@
+FEDERAL COMPETITION AND CONSUMER PROTECTION
+COMMISSION
+(CONSUMER PROTECTION) REGULATIONS, 2026
+Subsidiary Legislation Made under Parts XV, XVI and XVII, and sections 17, 163(1) and 163(2)(e) of the Federal Competition and Consumer Protection Act, 2018
+ARRANGEMENT OF REGULATIONS
+PART I — SCOPE AND OBJECTIVES 3
+1. Scope of the Regulations 3
+2. Objectives of the Regulations 3
+PART II — CONSUMER INFORMATION AND DISCLOSURE PROCEDURES 3
+3. Plain language standard 3
+4. Consent to Terms in Digital Transactions 4
+5. Price display and Unit Pricing 5
+6. Labelling and Trade Descriptions 6
+7. Second-Hand and Reconditioned Goods 7
+8. Transaction Records 8
+PART III — CONSUMER TRANSACTION PROCEDURES 9
+9. Bundling of Goods and Services 9
+10. Cancellation of Advance Reservations, Bookings, and Orders 10
+11. Return of Defective or Non-Conforming Goods 11
+12. Goods Examination Standards 12
+13. Distance Contracts 13
+PART IV — FAIR DEALING AND MARKETING STANDARDS 14
+14. Advertising Substantiation 14
+15. False, Misleading, or Deceptive Representations 16
+16. Unfair Contract Terms 17
+17. Notice of Material Terms 18
+18. Commercial Influence Disclosure 19
+19. Fair Dealings in Consumer Transactions 20
+PART V — PRODUCT SAFETY AND QUALITY PROCEDURES 22
+20. Quality Assessment Standards 22
+21. Hazard Notification 23
+22. Product Recall Procedure 24
+23. Safety Certification and Testing 24
+PART VI — LIABILITY AND REDRESS PROCEDURES 25
+24. Defect Notification 25
+25. Remedies for Defective Products 25
+26. Refunds 27
+27. Consumer Complaint Handling 28
+PART VII — ENFORCEMENT PROCEDURES 29
+28. Consumer Complaints to the Commission 29
+29. Interface with Industry Sector Regulators
+30. Mediation and Conciliation
+31. Initiation and Conduct of Investigations
+32. Investigation Process and Timeline 35
+33. Document Production 36
+34. Hearings 37
+35. Decisions 38
+36. Consent Orders 39
+37. Interim Orders 39
+38. Compliance Monitoring 40
+39. Penalty Assessment 41
+40. Review of Sector Regulator Decisions 41
+41. Appeals to the Tribunal 43
+PART VIII — EVIDENCE AND INVESTIGATIONS PROTOCOL 43
+42. Inspection and Search of Premises 43
+43. Digital Evidence 44
+44. Chain of Custody 44
+45. Expert Evidence 45
+46. Legal Professional Privilege 45
+PART IX — MISCELLANEOUS PROVISIONS 46
+47. Vulnerable Consumers 46
+48. Alternative Dispute Resolution 46
+49. Transitional Provisions 47
+50. Savings and Repeal 47
+51. Interpretation 47
+52. Citation 49
+SCHEDULES 50
+SCHEDULE 1 50
+SCHEDULE 2 51
+SCHEDULE 3 54
+SCHEDULE 4 56
+SCHEDULE 5 58
+In exercise of the powers conferred upon it by Parts XV, XVI and XVII, and sections 17, 163(1) and 163(2)(e) of the Federal Competition and Consumer Protection Act, 2018, and all other powers enabling it in that behalf, the Federal Competition and Consumer Protection Commission hereby makes the following Regulations— These Regulations come into force on the date of their publication in the Federal Government Official Gazette.
+PART I — SCOPE AND OBJECTIVES
+1. Scope of the Regulations
+(1) These Regulations are made to provide a regulatory framework for the implementation of Parts XV, XVI and XVII of the Act relating to consumer protection and all matters related thereto.
+2. Objectives of the Regulations
+(2) These Regulations shall—
+(a) provide the substantive and procedural requirements for the implementation of Parts XV, XVI and XVII of the Act;
+(b) prescribe standards of disclosure, fair dealing, product safety, and consumer redress;
+(c) establish procedures for the investigation and resolution of consumer complaints by the Commission; and
+(d) clarify the obligations of undertakings and the rights of consumers under the Act.
+PART II — CONSUMER INFORMATION AND DISCLOSURE PROCEDURES
+3. Plain language standard
+(1) For the purposes of section 114 of the Act, information is in plain language if an ordinary consumer, with no specialist knowledge of the subject matter, can read, comprehend, and act on it without assistance.
+(2) In assessing whether information satisfies the plain language requirement of subregulation (1), regard shall be had to all of the following criteria—
+(a) the text is written in language that an ordinary consumer, with no specialist knowledge, can read and understand at first reading, without the need for reference to external sources;
+(b) sentences are kept as short as the subject matter permits, the average sentence length across the document does not exceed twenty words, and no single sentence exceeds forty words, provided that these are indicia rather than absolute thresholds and that the Commission shall have regard to the overall comprehensibility of the document;
+(c) technical or legal terms are not used where a plain equivalent conveys the same legal meaning, and where technical terms are unavoidable, a brief explanation in ordinary language immediately follows;
+(d) the document uses headings, sub-headings, and numbered or bulleted lists where appropriate to organise information and enhance comprehension;
+(e) body text is presented in a typeface commonly used for reading, at a minimum font size of ten points, in a colour that provides sufficient contrast with the background; and
+(f) where information is provided electronically, it is formatted to display correctly on mobile and desktop devices, is accessible to assistive technologies in accordance with internationally recognised accessibility standards and is presented with sufficient contrast between text and background to be readable by persons with visual impairments.
+(3) The Commission may, by guidelines, specify the manner in which the criteria in subregulation (2) apply to different categories of information or sectors, having regard to the complexity of the subject matter and the characteristics of the relevant consumer group, including where the consumer group has low literacy levels or includes a concentration of vulnerable consumers.
+4. Consent to Terms in Digital Transactions
+(1) For the purposes of sections 114, 127, 128, and 129 of the Act, an undertaking shall not bind a consumer to the terms of a digital transaction unless the consumer has given consent through a clear affirmative action that is freely given, specific to the transaction, and informed.
+(2) Consent is given through a clear affirmative action for the purposes of sub-regulation
+(1) where the consumer performs a deliberate, unambiguous act including clicking a clearly labelled button, ticking an unchecked box, or an equivalent positive step that indicates agreement to the terms presented.
+(3) Terms presented for consent shall—
+(a) be written in plain language in accordance with regulation 3;
+(b) be accessible to the consumer before the affirmative action is required; and
+(c) be sufficiently prominent that a consumer exercising ordinary care would be aware of them.
+(4) The following do not constitute valid consent for the purposes of this regulation—
+(a) pre-selected options or pre-ticked boxes;
+(b) consent obtained by the consumer's silence, inaction, or continued use of a service;
+(c) consent to a term bundled as a condition of accessing a service where that term is not necessary to the performance of that service; and
+(d) consent obtained through a process designed or presented in a manner that obscures, discourages, or penalises the consumer's ability to withhold or withdraw consent.
+(5) Where a digital transaction involves terms that affect the consumer's financial obligations, rights of withdrawal, liability, or right to cancel, the undertaking shall bring those specific terms to the consumer's attention separately and prominently before consent is given and shall not present them as part of a composite acceptance of general terms.
+(6) Consent obtained otherwise than in accordance with this regulation does not satisfy the requirements of section 114 of the Act, and any term to which such consent purports to relate shall not be enforceable against the consumer.
+5. Price display and Unit Pricing
+(1) For the purposes of section 115 of the Act, an undertaking that offers products for sale shall display the price clearly and prominently in Nigerian currency before the consumer is required to commit to a transaction.
+(2) This obligation applies across all sales channels, including physical retail outlets, ecommerce platforms, websites, social media pages, mobile applications, and any other medium through which products are offered to consumers.
+(3) The displayed price shall be the total amount payable by the consumer, inclusive of all applicable taxes, levies, and mandatory charges.
+(4) Where costs that are not included in the displayed price may be incurred by the consumer including delivery fees, installation charges, or mandatory service fees— those costs shall be—
+(a) disclosed separately and clearly; and
+(b) brought to the consumer's attention before the conclusion of the transaction.
+(5) Where more than one price is displayed for the same products, the undertaking shall charge the lowest of the prices so displayed and shall not offer the products for sale at any higher price until a single correct price has been substituted.
+(6) An undertaking supplying pre-packaged goods sold by weight, volume, or count shall display a unit price alongside the total price in a manner that enables the consumer to make a meaningful price comparison with similar goods.
+(7) Where a contract is of indefinite duration or contains an automatic renewal provision, the undertaking shall—
+(a) state the duration, the renewal terms, and the procedure for cancellation clearly in the original contract document;
+(b) notify the consumer of the upcoming renewal not less than thirty days before the renewal date by a means of communication ordinarily used in the parties' dealings;
+(c) include in the renewal notice a simple and accessible mechanism by which the consumer may cancel the renewal without penalty; and
+(d) provide a cancellation or opt-out mechanism that is substantially equivalent in ease, visibility, and number of steps to the mechanism by which the consumer subscribed to the service.
+(8) An undertaking shall not charge a consumer a price higher than the displayed price for products unless the consumer has been informed of the revised price and has expressly consented to it before the transaction is completed.
+6. Labelling and Trade Descriptions
+(1) For the purposes of section 116 of the Act, a product label shall include at a minimum—
+(a) the name or brand of the product;
+(b) the full name and address of the manufacturer, importer, or distributor responsible for placing the product on the Nigerian market;
+(c) contact details sufficient to enable the consumer to seek redress, comprising at a minimum a telephone number and an electronic mail address, and where available a website address;
+(d) the country of origin of the product;
+(e) warnings, precautions, or instructions for use necessary for the safe handling or consumption of the product; and
+(f) in the case of food, beverages, pharmaceutical products, cosmetics, and other regulated goods, such additional information as is required by the relevant regulatory authority, including NAFDAC, the Standards Organisation of Nigeria, or any other body of competent jurisdiction.
+(2) All labelling required under this regulation shall be in English. Where a label is produced in more than one language, the English text shall be no less prominent than any other language used.
+(3) Labels shall contain sufficient information to enable the product to be traced through the supply chain to its source, including by means of batch numbers, production dates, or equivalent identifiers.
+(4) No label or trade description shall contain a false, deceptive, or misleading claim as to the product's quality, origin, composition, or compliance with applicable standards.
+(5) The prohibitions in section 116(2) and (3) of the Act apply to labels and trade descriptions in digital form, including those displayed on websites, mobile applications, and digital marketplaces, as they apply to labels and trade descriptions in physical form.
+7. Second-Hand and Reconditioned Goods
+(1) For the purposes of section 117 of the Act, an undertaking that offers reconditioned, refurbished, or second-hand goods for sale shall—
+(a) clearly disclose the status of the goods before the conclusion of any transaction;
+(b) state in plain language the nature of any reconditioning, refurbishment, repairs, replacements, or modifications made to the goods;
+(c) disclose any known defect or limitation in the goods that would affect the consumer's decision to purchase; and
+(d) clearly distinguish any warranty offered on the goods from warranties that apply to new goods of the same description.
+(2) In addition to the disclosure required by sub-regulation (1), goods shall be conspicuously labelled as reconditioned, refurbished, or second-hand, as the case may be, in a manner likely to attract the attention of an ordinarily alert consumer.
+(3) An undertaking shall not represent, describe, or cause to be represented or described, reconditioned, refurbished, or second-hand goods as new goods.
+8. Transaction Records
+(1) For the purposes of section 118 of the Act, an undertaking shall provide the consumer with a written record of each transaction.
+(2) Where it is impracticable to provide a record, the undertaking shall disclose the reason for that impracticability to the consumer on request and to the Commission on request.
+(3) The transaction record shall include—
+(a) the full name or registered business name of the undertaking;
+(b) the address of the premises from which the products were sold or supplied or, in the case of a digital or distance transaction, the medium through which the transaction was concluded and, where applicable, the address from which goods were dispatched or the service was supplied;
+(c) the date of the transaction;
+(d) a name or description of each item supplied;
+(e) the unit price of each item;
+(f) the quantity of each item supplied;
+(g) the total price before taxes and charges;
+(h) the amount of all applicable taxes and charges, stated separately; and
+(i) the total price inclusive of all taxes and charges.
+(4) Transaction records shall be retained for a minimum of five years from the date of the transaction and shall be made available to the Commission within the period specified in any request.
+(5) Where records are maintained in electronic form, the undertaking shall ensure that records are—
+(a) protected against unauthorised access, alteration, or deletion;
+(b) regularly backed up to a secure off-site or alternative location; and
+(c) retrievable and readable in a format compatible with standard document reading software.
+PART III — CONSUMER TRANSACTION PROCEDURES
+9. Bundling of Goods and Services
+(1) For the purposes of section 119 of the Act, an undertaking shall not, as a condition of supplying any products or entering into any transaction, require a consumer to—
+(a) acquire any other products from that undertaking or from a designated third party;
+(b) enter into any additional agreement with that undertaking or any designated third party; or
+(c) accept any term or condition that restricts the consumer's ability to acquire comparable products from another supplier.
+(2) An undertaking that bundles products shall, if required by the Commission, demonstrate by evidence that—
+(a) the bundled products are genuinely complementary and necessary to the performance of the primary product in a manner that provides a net benefit to the consumer; or
+(b) the bundling produces a quantifiable economic benefit to the consumer that would not be available if the products were offered separately and that outweighs the limitation on the consumer's freedom of choice.
+(3) Where products are offered in a bundle, the undertaking shall—
+(a) disclose the price of each component of the bundle separately and clearly before the transaction is concluded; and
+(b) inform the consumer whether each component is available for separate purchase and, if so, at what price.
+(4) Where a consumer objects to a bundle, the undertaking shall, where it is practicable to do so, offer the products individually at a fair and reasonable price. The undertaking bears the burden of demonstrating that unbundling is not practicable.
+(5) An undertaking shall not coerce, mislead, or unduly influence a consumer into accepting a bundle against the consumer's expressed preference.
+10. Cancellation of Advance Reservations, Bookings, and Orders
+(1) For the purposes of section 120 of the Act, a cancellation fee shall be deemed unreasonable if it exceeds the direct loss actually incurred by the undertaking as a result of the cancellation, having regard to —
+(a) the time between the notice of cancellation and the scheduled provision of the products;
+(b) the nature of the products;
+(c) the undertaking's ability, acting diligently, to mitigate its loss by finding an alternative customer within the available period;
+(d) the general practice of the relevant industry; and
+(e) any representations made to the consumer at the time of booking or ordering.
+(2) No cancellation fee shall be imposed where the cancellation arises from the death or hospitalisation of the consumer or of the person for whose benefit the reservation, booking, or order was made, provided that the undertaking may require reasonable evidence of the death or hospitalisation before waiving the fee.
+(3) Where a consumer is entitled to cancellation without fee under sub-regulation (2), and a deposit was paid, the undertaking shall refund the deposit within five business days of receiving reasonable evidence of the death or hospitalisation.
+(4) Before or at the time of booking or ordering, an undertaking shall provide the consumer with its cancellation policy, which shall be in accordance with these Regulations and the Act, in plain language, including—
+(a) the amount of any cancellation fee or the method by which it will be calculated; and
+(b) the procedure and contact details for notifying a cancellation.
+(5) Any cancellation policy, including fees, timelines, or other conditions, that is not clearly communicated to the consumer at or before the time of booking or ordering is not applicable and shall not be enforceable against the consumer.
+11. Return of Defective or Non-Conforming Goods
+(1) For the purposes of section 132(2) of the Act, where a consumer exercises the right to return goods on grounds of defect or non-conformity—
+(a) within thirty days of delivery, the defect shall be presumed to have existed at the time of supply and the consumer need only identify the defect to the undertaking; the undertaking bears the burden of proving that the defect did not exist at the time of supply;
+(b) after thirty days but within three months of delivery, the consumer shall provide particulars sufficient to show that the defect is not attributable to the consumer's own misuse, accidental post-delivery damage, or normal wear and tear, provided that the burden of proving conformity at the time of supply remains throughout on the undertaking; and
+(c) the periods in this sub-regulation do not limit or reduce the three-month right to return conferred by section 132(2) of the Act.
+(2) Failure to notify within thirty days shall not, of itself, defeat the consumer's claim where the defect was latent, continuing, or was known or reasonably attributable to the undertaking, or where the consumer shows reasonable cause for the delay.
+(3) An undertaking shall not require a consumer to return goods in their original packaging as a condition of exercising the right to return, and may require only that the goods be returned in a condition that allows the defect or non-conformity to be identified and assessed
+(4) The undertaking shall bear all reasonable costs of return—including collection, delivery, handling, and logistics—where the return arises from defect or nonconformity.
+(5) An undertaking may require the consumer to produce a transaction record or other proof of purchase as a condition of accepting a return, provided that this requirement shall not be used to deny a legitimate return where the consumer can demonstrate the purchase through other reasonable means, including bank or electronic payment records.
+12. Goods Examination Standards
+(1) For the purposes of section 121 of the Act, an undertaking that displays goods for sale shall do so in a manner that permits reasonable examination by the consumer, and shall—
+(a) provide adequate lighting and display arrangements;
+(b) permit handling of goods where practicable; and
+(c) clearly mark any fragile or hazardous items.
+(2) For the purposes of section 121(3) and (4) of the Act—
+(a) where goods are supplied on the basis of a description alone, the goods delivered shall in all material respects correspond to what an ordinary consumer would reasonably expect on the basis of that description;
+(b) where goods are supplied on the basis of a sample alone, the goods delivered shall correspond to the quality of the sample, and shall be free from any defect that would not be apparent on reasonable examination of the sample;
+(c) where goods are supplied on the basis of both a description and a sample, the goods delivered shall correspond to both the description and the sample, and conformity with one does not constitute conformity with the other, such that nonconformity with either is a non-conformity for the purposes of this regulation
+(d) where, before the conclusion of the transaction, the undertaking is aware of a material inconsistency between the description and the sample, the undertaking shall—
+(i) draw the inconsistency specifically and prominently to the consumer's attention before the transaction is concluded; and
+(ii) identify which characteristic shall govern the supply, and obtain the consumer's express agreement to that determination; and
+(e) where the undertaking fails to comply with paragraph (d) and the goods correspond to one standard but not the other, the consumer may elect to treat the non-conformity with either the description or the sample as the basis for a remedy under regulation 25, and the undertaking may not rely on conformity with one standard as a defence to non-conformity with the other
+(3) Where the lighting, filters, editing, or any other visual presentation used by the undertaking in displaying goods materially alters, distorts, or misrepresents the true nature, colour, texture, appearance, or other material characteristic of the goods, the undertaking shall clearly disclose that fact to consumers and state, in plain language, the actual nature, colour, texture, appearance, or other material characteristic of the goods in the absence of such distortion.
+(4) For the purposes of section 145 of the Act, in any dispute as to whether goods conform to their description or sample, the undertaking bears the burden of proving conformity.
+13. Distance Contracts
+(1) For the purposes of sections 114, 115, 127, 128, and 163(1) of the Act, before a distance contract is concluded an undertaking shall provide the consumer with the following information clearly, comprehensibly, and prominently—
+(a) the undertaking's full name, physical or registered address, telephone number, and electronic mail address;
+(b) the main characteristics of the products to be supplied;
+(c) the total price inclusive of all taxes and charges, or where the total price cannot reasonably be calculated in advance, the basis on which it will be calculated;
+(d) any delivery or logistical arrangements, the expected date of delivery or performance, and the cost of delivery;
+(e) the undertaking's complaints and redress procedures; and
+(f) the minimum duration of the contract and any terms relating to automatic renewal or termination.
+(2) An undertaking shall not use pre-ticked boxes, default selections, or pre-selected options to obtain the consumer's agreement or consent to any payment additional to the main consideration, and any consent purportedly obtained by such means shall be void and of no effect, with any sum paid pursuant thereto to be refunded within seven business days
+(3) A consumer who did not receive the information required by sub-regulation (1) before concluding a distance contract may cancel the contract without penalty within thirty days of the date on which the consumer discovers or ought reasonably to have discovered the failure to disclose.
+(4) Under a distance contract, the undertaking shall deliver goods within the agreed period or, where no period is agreed, within thirty days of the date the contract was concluded.
+(5) In a distance contract for the sale of goods, risk of loss or damage passes to the consumer on actual delivery to the consumer or to a person designated by the consumer to receive the goods, and any contractual term purporting to pass risk at an earlier point, including on dispatch, is void and of no effect for the purposes of section 127(2)(b) of the Act.
+(6) Where a distance contract is concluded through an online platform or digital marketplace, the platform or marketplace operator shall—
+(a) ensure that the identity and contact details of the supplying undertaking are clearly disclosed to the consumer before the conclusion of the contract;
+(b) maintain a complaint-escalation channel accessible to consumers; and
+(c) provide reasonable assistance to consumers in cases of non-delivery, fraud, or disappearance of the seller, including by facilitating refunds where the operator holds funds in respect of the transaction.
+PART IV — FAIR DEALING AND MARKETING STANDARDS
+14. Advertising Substantiation
+(1) For the purposes of sections 123 and 125 of the Act, any claim made in advertising or marketing shall—
+(a) be substantiated by reliable evidence that is available at the time the claim is made and is capable of independent verification; and
+(b) accurately reflect the actual qualities, characteristics, or capabilities of the products.
+(2) An undertaking shall not engage in advertising or marketing that—
+(a) contains false, deceptive, or misleading information;
+(b) omits material facts where the omission is likely to cause a consumer to take a transactional decision that the consumer would not otherwise have taken;
+(c) exaggerates the benefits, performance, or capabilities of products;
+(d) employs bait-and-switch techniques, including advertising products at a price without a reasonable intention or ability to supply them at that price in reasonable quantities;
+(e) misuses testimonials, endorsements, or imagery in a misleading manner;
+(f) engages in comparative advertising that unfairly discredits a competitor or a competitor's products; or
+(g) uses digital interface design that exploits cognitive biases or otherwise manipulates or coerces the consumer's decision-making, including through artificially creating urgency, obscuring opt-out mechanisms, or misrepresenting the nature or significance of a choice.
+(3) An undertaking shall not, in advertising directed at children under the age of sixteen—
+(a) use techniques that exploit a child's inexperience, credulity, or emotional vulnerability; or
+(b) use a child's sense of loyalty to a person, character, or brand to pressure a purchasing decision.
+(4) An undertaking shall not advertise products that are harmful to the health or development of children to an audience consisting primarily of children.
+(5) An undertaking shall maintain records of all advertising claims and the supporting evidence for a period of not less than five years and shall produce those records to the Commission on request.
+(6) The Commission may order the immediate withdrawal or modification of any advertisement that the Commission is satisfied is in breach of this regulation or the Act, in accordance with its powers under Part IX of the Act.
+(7) An undertaking shall not charge a consumer on the expiry of a free trial or introductory period unless—
+(a) the consumer has given clear and informed prior consent to the charge; and
+(b) the undertaking has sent the consumer a reminder of the impending charge not less than seven days before it is to be applied.
+15. False, Misleading, or Deceptive Representations
+(1) For the purposes of section 125 of the Act, in determining whether a representation is false, misleading, or deceptive, regard shall be had to—
+(a) the overall impression the representation is likely to create in the mind of an ordinary consumer, having regard to all its elements including any omissions, ambiguities, and visual presentation;
+(b) whether material information has been omitted or obscured;
+(c) whether any ambiguity in the representation is likely to result in a consumer being misled; and
+(d) whether the representation was substantiated by evidence available to the undertaking at the time it was made.
+(2) An omission of material information constitutes a prohibited representation where it is likely to cause an ordinary consumer to take a transactional decision that the consumer would not otherwise have taken.
+(3) The following are material omissions for the purposes of this regulation—
+(a) failure to disclose the full cost of products, including all charges, fees, and conditions of supply;
+(b) failure to disclose known risks or defects; and
+(c) failure to disclose essential terms and conditions that qualify or limit the benefits claimed.
+(4) An undertaking is liable for representations made by its employees, agents, or representatives within the scope of their actual or apparent authority, whether or not the undertaking authorised the specific representation.
+(5) Where an undertaking makes any environmental, ecological, or sustainability claim in connection with the marketing of any products, that claim shall—
+(a) be accurate, specific, and substantiated by evidence produced by or verified by an independent body, or otherwise capable of independent verification;
+(b) clearly identify whether it relates to the product specifically or to the undertaking's operations generally; and
+(c) not consist of generic, vague, or unqualified language—including "ecofriendly", "green", "natural", "clean", or "sustainable"—without specific, verifiable substantiation of the claim as used.
+16. Unfair Contract Terms
+(1) For the purposes of section 127 of the Act, in determining whether a contractual term is unfair, regard shall be had to—
+(a) whether the term was individually negotiated;
+(b) whether the term creates a significant imbalance in the parties' rights and obligations to the detriment of the consumer;
+(c) whether the term was brought to the consumer's attention before the contract was concluded;
+(d) the nature of the products; and
+(e) all the terms of the contract and of any related contract.
+(2) The assessment of unfairness shall focus on the overall effect of the term in the context of the contract, not merely its literal wording.
+(3) Without limiting the generality of section 127 of the Act, a term shall be presumed unfair if it—
+(a) excludes or limits the undertaking's liability for death or personal injury caused by the undertaking's act or omission;
+(b) excludes, limits, or restricts the undertaking's liability for defective products;
+(c) enables the undertaking to retain sums paid by the consumer where the undertaking itself fails to perform, without an equivalent or reciprocal obligation;
+(d) requires the consumer to pay compensation disproportionate to any harm caused by the consumer's non-performance;
+(e) enables the undertaking to alter the terms, price, or characteristics of the products after the contract is concluded, without the consumer's prior agreement;
+(f) binds the consumer to terms that the consumer had no real opportunity to review before concluding the contract;
+(g) gives the undertaking the sole or exclusive right to determine whether the products conform to the contract; or
+(h) restricts or excludes the consumer's right to take legal action or limits the evidence available to the consumer in any dispute.
+(4) The Commission shall publish and maintain a non-exhaustive indicative list of terms considered presumptively unfair ("the Grey List"), to be set out in Schedule 1 and updated by the Commission by notice from time to time after public consultation.
+(5) The initial Grey List shall be published within one hundred and eighty days of the commencement of these Regulations.
+(6) Inclusion on the Grey List creates a rebuttable presumption of unfairness; exclusion from the Grey List does not preclude a finding of unfairness.
+(7) In any dispute concerning the fairness of a contractual term, the undertaking bears the burden of proving that the term is fair.
+17. Notice of Material Terms
+(1) For the purposes of section 128 of the Act, an undertaking shall draw to the consumer's attention, in a conspicuous manner and in plain language, any term or condition that—
+(a) purports to limit or exclude the undertaking's liability;
+(b) imposes obligations on the consumer beyond what is reasonably expected in a transaction of that type; or
+(c) restricts or affects the consumer's rights or available remedies.
+(2) Notice under sub-regulation (1) shall be given before the consumer is required to commit to or offer consideration for the transaction, and the consumer shall be given adequate opportunity to review and comprehend the terms before committing.
+(3) For the purposes of section 129(2) of the Act, any term that—
+(a) purports to exclude or restrict a right of the consumer under the Act; or
+(b) is unconscionable, unreasonable, or unjust within the meaning of section 127 of the Act, is void and of no effect, and the remainder of the contract shall continue in force to the extent that it is capable of doing so without the void term.
+18. Commercial Influence Disclosure
+(1) For the purposes of sections 123 and 126 of the Act, any communication that constitutes commercial influence shall be clearly and prominently identified as such before the consumer engages with it.
+(2) Where commercial influence involves payment, sponsorship, the supply of free products or services, affiliate arrangements, or any other benefit of value, the nature and existence of the commercial relationship shall be disclosed clearly and prominently, using language that an ordinary consumer will understand.
+(3) Commercial influence shall not be presented in a manner that—
+(a) conceals its commercial intent; or
+(b) misrepresents paid, sponsored, or otherwise commercially motivated content as independent editorial opinion or authentic consumer experience.
+(4) An online platform shall—
+(a) provide an accessible mechanism for users to report content that may constitute non-compliant commercial influence;
+(b) upon receiving notice of potentially non-compliant content, take reasonable and timely steps to review and, where appropriate, remove or label it; and
+(c) implement reasonable safeguards to prevent commercial influence content from being directed primarily at children.
+(5) An online platform that hosts consumer reviews or ratings shall—
+(a) not manipulate, suppress, or artificially inflate reviews or ratings in a manner that misleads consumers as to the reputation or quality of any product or undertaking; and
+(b) take reasonable steps to detect and remove fabricated or incentivised reviews that are not disclosed as such.
+(6) An online platform that operates as a digital marketplace shall—
+(a) verify the identity and contact details of each seller using the platform and retain sufficient records to trace transactions;
+(b) maintain an accessible notice-and-action mechanism for unsafe, unlawful, or deceptive listings; and
+(c) cooperate with the Commission in the removal of offending listings and the facilitation of consumer redress.
+(7) The Commission may, by guidelines, prescribe the form, placement, language, and minimum standards for disclosures required under this regulation.
+19. Fair Dealings in Consumer Transactions
+(1) For the purposes of section 124(1) of the Act, the following conduct by an undertaking or any person acting on its behalf constitutes the use of unfair tactics or similar conduct in connection with a consumer transaction—
+(a) applying undue pressure on a consumer to conclude a transaction immediately, including by creating a false or materially exaggerated sense of urgency, scarcity, or limited availability;
+(b) using digital interface design, countdown timers, false stock indicators, or other technical means to pressure, manipulate, or coerce a consumer's transactional decision;
+(c) subjecting a consumer to persistent, repeated, or unwanted communications for the purpose of inducing the consumer to enter into or perform a transaction, after the consumer has indicated that the communications are unwelcome;
+(d) threatening to take action that the undertaking is not legally entitled to take, or implying legal consequences that do not exist, in connection with the demand for or collection of payment;
+(e) using the consumer's personal data, behavioural profile, or consumption history to target the consumer with communications designed to exploit a known or foreseeable vulnerability; and
+(f) requiring a consumer to navigate an unduly complex, confusing, or burdensome process in order to exercise a right under the Act, the Regulations, or a contract, where the process for acquiring the service or incurring the obligation was materially simpler.
+(2) For the purposes of section 124(2) of the Act, in determining whether an undertaking has knowingly taken advantage of a consumer who was substantially unable to protect the consumer's own interests, regard shall be had to—
+(a) whether the undertaking knew or ought reasonably to have known of the consumer's physical or mental disability, illiteracy, ignorance, inability to understand the language of the agreement, or other vulnerability;
+(b) whether the transaction was concluded on terms materially less favourable to the consumer than would have been offered to an ordinary consumer in a comparable transaction;
+(c) whether the undertaking took reasonable steps to ensure that the consumer understood the nature, effect, and consequences of the transaction; and
+(d) whether the consumer had access to independent advice or had a cooling-off period within which to reconsider the transaction.
+(3) Without limiting the generality of sub-regulation (2), an undertaking is presumed to have knowingly taken advantage of a consumer's vulnerability where—
+(a) the undertaking specifically targeted the consumer, or a class of consumers known to include vulnerable persons, with marketing, product design, or transactional practices that exploit the vulnerability;
+(b) the undertaking used algorithmic profiling or automated decision-making to identify and target consumers on the basis of characteristics associated with vulnerability; or
+(c) the transaction was concluded in a language that the consumer does not understand, and the undertaking failed to provide a translation or adequate explanation of the material terms.
+(4) Where an undertaking operates a digital interface through which consumer transactions are concluded or performed, the undertaking shall design and maintain the interface so as not to—
+(a) exploit cognitive biases, emotional states, or habitual responses to pressure or manipulate the consumer's transactional decisions;
+(b) make it materially more difficult for a consumer to exercise a right (including the right to cancel, withdraw consent, or obtain a refund) than it was for the consumer to incur the corresponding obligation; or
+(c) present information in a manner designed to steer the consumer toward a particular transactional decision that is not in the consumer's interest.
+(5) An undertaking that collects payment from consumers shall not, in connection with the demand for or collection of payment—
+(a) use physical force, threats of violence, or intimidation;
+(b) contact the consumer at times or in a manner that constitutes harassment;
+(c) disclose or threaten to disclose the consumer's indebtedness to third parties not involved in the collection of the debt, for the purpose of coercing payment; or
+(d) misrepresent the amount owed, the consequences of non-payment, or the collector's authority.
+(6) The Commission may, by guidelines, specify additional conduct that constitutes unfair tactics, and may prescribe minimum standards for interface design to ensure compliance with this regulation and section 124 of the Act.
+(7) This regulation applies in addition to, and without prejudice to, the provisions of regulation 47 (Vulnerable Consumers), and the two shall be read together.
+PART V — PRODUCT SAFETY AND QUALITY PROCEDURES
+20. Quality Assessment Standards
+(1) For the purposes of sections 131 and 132 of the Act, goods shall be assessed against the following quality criteria—
+(a) fitness for all purposes for which goods of that description are ordinarily supplied;
+(b) appearance and finish;
+(c) freedom from minor defects;
+(d) safety; and
+(e) durability, having regard to the price, nature, and description of the goods.
+(2) For the purposes of section 142(3) of the Act, the quality of a service shall be assessed against the standard of reasonable care and skill expected in the relevant trade or profession, having regard to—
+(a) the nature and complexity of the service;
+(b) any representations made by the undertaking before or during the provision of the service; and
+(c) the price charged.
+(3) Where goods or materials are supplied in the course of performing a service, those goods or materials shall satisfy the quality criteria applicable to goods under subregulation (1).
+(4) Where a service is not supplied with reasonable care and skill, or within the time reasonably agreed, the consumer is entitled, at the consumer's election and where appropriate, to—
+(a) re-performance of the service;
+(b) a proportionate reduction in price;
+(c) a refund for the unperformed or substandard portion; or
+(d) compensation for direct loss reasonably incurred as a result of the failure.
+21. Hazard Notification
+(1) For the purposes of section 135 of the Act, an undertaking that becomes aware, or that ought reasonably to have become aware, that products under its control present a hazard to public health, safety, or the environment shall, without undue delay and in any event within three business days of acquiring that awareness—
+(a) cease the distribution, supply, or sale of the hazardous products; and
+(b) notify the Commission and any relevant sector regulator of—
+(i) the nature and extent of the hazard;
+(ii) the products affected; and
+(iii) the steps being or proposed to be taken.
+(2) For the purposes of this Regulation, products present a hazard where they are likely to cause injury, illness, or damage to persons or property when used or foreseeably misused in the ordinary course.
+(3) Public notification of the hazard shall be given as part of the recall process under Regulation 22, in a manner and at a time specified in the recall plan approved or directed by the Commission.
+22. Product Recall Procedure
+(1) For the purposes of section 133 of the Act, within ten business days of a recall being initiated, the undertaking shall submit to the Commission a written recall plan in the form set out in Schedule 2, containing—
+(a) the nature and extent of the hazard;
+(b) identification of the products affected, including batch numbers, serial numbers, or equivalent identifiers;
+(c) the geographic scope and estimated number of consumers affected;
+(d) the steps to be taken to notify consumers and retrieve the products; and
+(e) the remedies to be offered to consumers, which shall include at least a full refund or a free replacement with a safe product of equivalent type.
+(2) The undertaking shall notify affected consumers through all reasonably available means, including by public notice and, where the undertaking holds the consumer's contact details, by direct communication.
+(3) Products withdrawn under a recall shall not be resupplied or exported without the prior written approval of the Commission.
+(4) Within sixty days of the completion of the recall, the undertaking shall submit to the Commission a post-recall effectiveness report, including the number of products retrieved, the rate of consumer response, and any consumer harm that has come to the undertaking's attention.
+(5) The remedies offered under a recall shall include reimbursement of reasonable expenses incurred by the consumer in returning, uninstalling, or storing the defective product, where such expenses were reasonably foreseeable.
+23. Safety Certification and Testing
+(1) For the purposes of section 134 of the Act and in conjunction with any applicable requirements of the Standards Organisation of Nigeria, NAFDAC, or any other sector regulator with jurisdiction, products subject to mandatory safety standards shall be—
+(a) tested by a laboratory accredited for the relevant test; or
+(b) certified as conforming to the applicable mandatory standard before being placed on the market.
+(2) An undertaking shall retain all relevant certification, test results, and accreditation documents and shall make them available to the Commission within the period specified in any request.
+(3) A manufacturer shall conduct regular reviews of the safety of its products on the basis of consumer complaints, incident reports, and any technical or regulatory developments relevant to the safety of those products.
+PART VI — LIABILITY AND REDRESS PROCEDURES
+24. Defect Notification
+(1) For the purposes of section 136 of the Act, a consumer who discovers a defect in goods or non-conformity in services shall give notice to the undertaking within thirty days from the date the defect or non-conformity was discovered or ought reasonably to have been discovered, provided that this period is a procedural requirement and does not derogate from the consumer's rights under section 132(2) of the Act or under regulation 11.
+(2) Nothing in sub-regulation (1) prevents an undertaking from agreeing to a longer notification period.
+(3) A notice under sub-regulation (1) shall include —
+(a) a description of the defect or non-conformity;
+(b) the date of purchase and any transaction reference; and
+(c) the remedy sought by the consumer.
+(4) The undertaking shall acknowledge receipt of a notice within five business days.
+25. Remedies for Defective Products
+(1) For the purposes of sections 130, 131, 132, and 136 of the Act, this Regulation sets out the framework for the assessment and exercise of remedies where products fail to conform to the requirements of the Act.
+(2) In assessing the appropriate remedy, regard shall be had to the nature and severity of the non-conformity —
+(a) where the non-conformity substantially deprives the consumer of the whole benefit of the contract, the consumer is entitled to reject the products and require a full refund;
+(b) where the non-conformity does not go to the root of the contract, the consumer is entitled to compensation, unless the cumulative effect of multiple nonconformities substantially deprives the consumer of the benefit of the contract, in which case paragraph (a) applies; and
+(c) where the severity of the non-conformity is uncertain, the appropriate remedy shall be determined having regard to its impact on the consumer's use and enjoyment of the product, whether it is capable of timely and effective cure, and whether the consumer has, in all the circumstances, reasonably lost confidence in the product.
+(3) The consumer's right to reject products —
+(a) may be exercised within thirty days of delivery or, where the defect is latent, within thirty days of the date the defect was or ought reasonably to have been discovered, subject to section 132(2) of the Act;
+(b) is not conditional on the consumer first accepting an offer of repair or replacement;
+(c) shall not be defeated by any notice, policy, or representation by the undertaking to the effect that refunds, exchanges, or returns are unavailable; and
+(d) is lost if the consumer, having been fully informed of the defect and the right to reject, freely elects to retain the product or allows a reasonable time to pass without exercising it.
+(4) Nothing in this Regulation prevents a consumer from electing, instead of rejection, to require the undertaking to —
+(a) repair the defective product within fourteen days, where repair is practicable and proportionate; or
+(b) replace the product with one of equivalent quality, type, and value within fourteen days.
+(5) An undertaking shall not represent to a consumer that repair or replacement must be accepted before the right of rejection may be exercised, as the election to accept repair or replacement is the consumer's right to exercise, not a duty to discharge.
+(6) The consumer's right of rejection revives in full, and a full refund of the purchase price inclusive of any delivery fees shall be processed within seven business days, where —
+(a) the same defect recurs within thirty days of repair;
+(b) a different defect manifests within thirty days of repair;
+(c) the undertaking fails to complete repair within fourteen days; or
+(d) the replacement product is itself defective or non-conforming.
+(7) In determining whether a defect is sufficiently serious to warrant rejection, regard shall be had to —
+(a) whether the defect reasonably undermines the consumer's confidence in the product as a whole, including by creating a reasonable apprehension of recurring or latent problems;
+(b) the nature and value of the product;
+(c) whether the defect can be permanently remedied to a standard equivalent to the product as originally supplied; and
+(d) the context and circumstances of the transaction.
+(8) A consumer may claim compensation for harm, injury, or financial loss caused by defective or non-conforming products in accordance with section 136 of the Act, without prejudice to the remedies in sub-regulations (3) to (5).
+(9) A refund under this Regulation shall not be reduced on account of the consumer's normal use of the product before the discovery of the defect, and the implied warranty of quality under section 132(1) of the Act is not reduced by the passage of time alone.
+(10) A consumer may not claim redress under this Regulation where —
+(a) the defect results from the consumer's misuse, negligence, or failure to follow reasonable usage instructions that were provided to the consumer;
+(b) the consumer was informed of the specific defect before contracting and freely accepted the product in that condition; or
+(c) the product has exceeded its reasonably expected lifespan, unless a latent defect existed at the time of supply.
+26. Refunds
+(1) For the purposes of section 136 of the Act, where a consumer is entitled to a refund under regulation 25 or any other provision of the Act —
+(a) the refund shall be processed within seven business days of being agreed or ordered;
+(b) the refund shall be paid by the same method of payment as was used by the consumer, unless the consumer agrees to an alternative method;
+(c) the refund shall include any delivery fees paid by the consumer in connection with the defective or non-conforming products; and
+(d) the undertaking shall provide the consumer with written confirmation of the refund and the amount refunded.
+(2) An undertaking shall not compel a consumer to accept store credit, vouchers, or exchange in place of a refund where the consumer is entitled to a refund under the Act or these Regulations.
+(3) Where an undertaking fails to process a refund within the period prescribed in subregulation (1)(a), the consumer may lodge a complaint with the Commission in the form set out in Schedule 3.
+27. Consumer Complaint Handling
+(1) For the purposes of section 146 of the Act, every undertaking shall establish, maintain, and operate an accessible complaint handling system.
+(2) The complaint handling system shall —
+(a) be accessible through multiple channels, including online, by telephone, and in person where the undertaking operates a physical premises;
+(b) operate during regular business hours;
+(c) be operated by trained personnel; and
+(d) not be more burdensome or time-consuming than the process by which the consumer acquired the products.
+(3) An undertaking shall —
+(a) acknowledge receipt of a complaint in writing within forty-eight hours;
+(b) provide a substantive response or resolution within fifteen business days;
+(c) where a complaint cannot be resolved within fifteen business days, notify the consumer before the expiry of that period with an explanation and a revised estimated timeline not exceeding a further fifteen business days; and
+(d) inform the consumer of the right to refer the matter to the Commission if the complaint is not resolved within the extended period.
+(4) An undertaking shall maintain a register of all complaints received and retain such records for five years from the date of each complaint.
+(5) An undertaking shall inform consumers of its complaint handling system through —
+(a) a prominent notice at any physical business premises;
+(b) inclusion on receipts and invoices; and
+(c) a dedicated, accessible page on any website the undertaking maintains.
+PART VII — ENFORCEMENT PROCEDURES
+28. Consumer Complaints to the Commission
+(1) For the purposes of section 148(1) of the Act, a consumer may lodge a complaint with the Commission in the form set out in Schedule 3, alleging that an undertaking has acted in a manner inconsistent with the provisions of the Act or these Regulations.
+(2) A complaint may be lodged —
+(a) through the Commission's electronic portal or website;
+(b) in person at any office of the Commission;
+(c) in writing addressed to the Executive Vice-Chairman of the Commission; or
+(d) through such other channel as the Commission may from time to time designate.
+(3) The Commission shall acknowledge receipt of a complaint within three business days and assign a case reference number.
+(4) On receipt, the Commission shall conduct a preliminary assessment to —
+(a) confirm that the complaint falls within the Commission's jurisdiction;
+(b) determine whether the complaint is frivolous, vexatious, or time-barred;
+(c) categorise the complaint by the nature of the alleged conduct, including safety, quality, misrepresentation, unfair contract terms, or other; and
+(d) determine the appropriate pathway under sub-regulation (5).
+(5) On completion of the preliminary assessment, the Commission shall —
+(a) where the complaint does not disclose grounds for a remedy under the Act, or is frivolous, vexatious, or time-barred, issue a notice of non-referral to the complainant with written reasons, in the form prescribed by section 148(3)(a) of the Act;
+(b) where the complaint relates to a matter within the jurisdiction of an industry sector regulator and the Commission considers that the sector regulator is better placed to investigate or resolve the complaint, refer the complaint under regulation 29;
+(c) where the Commission considers that the complaint may be suitable for resolution through mediation or conciliation, refer the complaint to mediation under regulation 30; or
+(d) where the nature of the complaint requires formal investigation, or where mediation is inappropriate having regard to the seriousness of the alleged conduct, the number of consumers affected, or the public interest, proceed directly to investigation under regulation 31.
+(6) The Commission shall notify the complainant in writing of the pathway determined under sub-regulation (5), with brief reasons, within five business days of receiving the complaint.
+(7) Failure by the Commission to comply with a timeline under this regulation does not extinguish the complaint, and the complainant may notify the Commission in writing that the timeline has expired and request that the Commission proceed without further delay.
+(8) A complaint or concern directed to the Commission by an accredited consumer protection group under section 151(3) of the Act shall be received and processed in accordance with this regulation.
+(9) The Commission shall, on its own motion, on the basis of information received from an industry sector regulator, or on the referral of an accredited consumer protection group, initiate a complaint concerning any allegedly prohibited conduct in accordance with section 148(2) of the Act, and any complaint so initiated shall proceed directly to investigation under regulation 31. 29 Interface with Industry Sector Regulators
+(1) For the purposes of section 148(3)(b) of the Act, where the Commission refers a complaint to an industry sector regulator, it shall —
+(a) notify the complainant in writing of the referral and the reasons for it;
+(b) transmit the complaint, together with any supporting documents, to the sector regulator;
+(c) specify the period within which the Commission expects the sector regulator to provide a report on the outcome of the referral, which shall be not more than ninety days; and
+(d) inform the complainant that if the matter is not resolved by the sector regulator within the specified period, the complainant may request the Commission to resume consideration of the complaint, and the Commission shall, on such request, resume consideration within fourteen business days.
+(2) The Commission shall maintain a register of all complaints referred to sector regulators and shall, on the expiry of the period specified in sub-regulation (1)(c), request from the sector regulator a report on the status of the complaint. Where the sector regulator has not resolved the complaint, the Commission shall resume consideration of the complaint and determine the appropriate pathway under regulation 28(5).
+(3) For the purposes of section 147 of the Act, where an industry sector regulator terminates a dispute resolution process by notice to the parties and the complainant files a complaint with the Commission —
+(a) the Commission shall treat the complaint as a new filing under regulation 28, but shall take into account the sector regulator's findings and the history of the matter in conducting its preliminary assessment;
+(b) the Commission may request the sector regulator to provide a summary of its findings and the reasons for terminating the process; and
+(c) the Commission shall expedite the preliminary assessment and shall endeavour to determine the appropriate pathway within seven business days of receipt.
+(4) For the purposes of section 150(1) of the Act, before issuing a compliance notice to an undertaking that is a member of a regulated industry, the Commission shall consult the industry sector regulator that issued the licence to the undertaking. The consultation shall —
+(a) be in writing and shall set out the proposed compliance notice, the findings on which it is based, and the period within which the Commission requests the sector regulator's response;
+(b) allow the sector regulator not less than fourteen days to respond; and
+(c) have regard to the sector regulator's response, but the Commission is not bound by it and shall state its reasons where it departs from the sector regulator's position. 30 Mediation and Conciliation
+(1) For the purposes of sections 148 and 163(1) of the Act, and the Commission's general power to prescribe procedures for giving effect to the Act, where a complaint is referred to mediation under regulation 28(5)(c), the Commission may facilitate mediation or conciliation between the complainant and the undertaking with a view to achieving a fair and expeditious resolution.
+(2) The Commission may appoint a mediator or conciliator to conduct the process, who shall be —
+(a) a member of the Commission's staff trained and designated for that purpose; or
+(b) a person drawn from a panel of qualified external mediators and conciliators maintained by the Commission.
+(3) The Commission may establish and maintain a panel of external mediators and conciliators, comprising persons who —
+(a) hold recognised qualifications or professional accreditation in mediation, conciliation, or alternative dispute resolution;
+(b) have relevant experience in consumer disputes or the sector to which the complaint relates; and
+(c) are free from any conflict of interest in relation to the parties.
+(4) Mediation under this regulation is voluntary and neither party shall be compelled to attend or to continue with the process, provided that —
+(a) where the undertaking refuses or fails to participate, the complaint shall proceed to investigation under regulation 31; and
+(b) where the complainant declines to participate, the Commission shall determine the appropriate pathway under regulation 28(5)(a) or (d).
+(5) The mediation process shall be completed within thirty days of the date on which both parties agree to participate, provided that the Commission may, on the application of the mediator and with the consent of both parties, extend the period by a further fifteen days where there is a reasonable prospect of settlement.
+(6) The mediator shall —
+(a) hold a mediation session or sessions with the parties, which may be conducted in person, by electronic means, or by a combination of both;
+(b) assist the parties to identify the issues in dispute and to explore mutually acceptable solutions;
+(c) act impartially and shall not impose a settlement on either party; and
+(d) maintain the confidentiality of the mediation process, subject to any disclosure required by law or necessary for the purpose of enforcing a settlement agreement.
+(7) Where the parties reach an agreement through mediation —
+(a) the agreement shall be reduced to writing and signed by both parties;
+(b) the mediator shall file a copy of the agreement with the Commission;
+(c) the parties may, by joint written request, apply to the Commission to register the settlement agreement as a consent order under section 149 of the Act, and the Commission may do so where it is satisfied that the terms adequately protect the consumer's interests and remedy the harm complained of; and
+(d) where the agreement is registered as a consent order, it shall be enforceable as an order of the Commission and breach of it shall constitute a contravention of these Regulations.
+(8) Where mediation fails —whether because the parties do not reach agreement, the undertaking fails to participate, the time limit expires without settlement, or the mediator reports that there is no reasonable prospect of settlement — the Commission shall, without further direction from the complainant and without discharging the complaint —
+(a) record the outcome of the mediation, including a brief statement of the issues that remain unresolved;
+(b) notify both parties in writing that the complaint is being referred to formal investigation; and
+(c) proceed to investigation under regulation 31.
+(9) The Commission shall not, on the failure of mediation, close the complaint or advise the complainant to seek redress through the Tribunal, a court, or any other forum as a substitute for the Commission's own determination under section 148 of the Act.
+(10) No admission, concession, or offer made by either party in the course of mediation shall be admissible in evidence in any subsequent investigation, hearing, or proceeding before the Commission, the Tribunal, or any court, unless both parties consent in writing.
+(11) Nothing in this regulation affects the consumer's independent right under section 146(2) of the Act to approach a court of competent jurisdiction at any time, and the consumer's participation in mediation does not waive or suspend that right. 31 Initiation and Conduct of Investigations
+(1) For the purposes of section 148 of the Act, the Commission shall initiate a formal investigation where —
+(a) a complaint is referred to investigation under regulation 28(5)(d);
+(b) mediation has failed under regulation 30(8);
+(c) the Commission initiates a complaint on its own motion under regulation 28(9); or
+(d) the nature of the complaint, including the seriousness of the alleged conduct, the number of consumers affected, or the public interest, in the Commission's assessment requires investigation without prior mediation, and the Commission shall record its reasons for proceeding directly to investigation.
+(2) The Commission shall notify the undertaking under investigation of the nature and scope of the investigation in the form set out in Schedule 4, unless the Commission is satisfied that notification would compromise the investigation or jeopardise evidence collection.
+(3) A notice under sub-regulation (2) shall specify —
+(a) the conduct under investigation and the provisions of the Act or these Regulations alleged to have been contravened;
+(b) the documents or information required from the undertaking;
+(c) the period for response, which shall be not less than fourteen days;
+(d) the undertaking's right to legal representation and to provide a written response; and
+(e) the penalties that may apply if the contravention is established.
+(4) The Commission shall direct an inspector to investigate the complaint as quickly as practicable in accordance with section 148(3)(c) of the Act, and may at any time during the investigation designate one or more additional persons to assist the inspector in accordance with section 148(4) of the Act.
+32. Investigation Process and Timeline
+(1) An investigation shall be completed within one hundred and eighty days of its initiation.
+(2) The Commission may extend the investigation by a further one hundred and eighty days, provided it gives written reasons to the undertaking and, where applicable, the complainant before the expiry of the initial period.
+(3) An investigation shall ordinarily proceed through the following stages —
+(a) initiation decision with written reasons, including reference to the outcome of any prior mediation;
+(b) evidence gathering, including document production under regulation 33, inspections, interviews, and analysis;
+(c) opportunity for the undertaking to respond in writing to the Commission's preliminary findings;
+(d) pre-hearing conference, at the Commission's discretion, where it would assist in narrowing issues or exploring consent resolution;
+(e) hearing, where required under regulation 34;
+(f) decision with written reasons under regulation 35; and
+(g) notification of the parties of the decision, the remedies ordered, and the rights of appeal.
+(4) The Commission shall provide the complainant with a written update on the progress of the investigation at intervals of not more than sixty days.
+33. Document Production
+(1) For the purposes of section 148 of the Act and the Commission's investigatory powers under Part IX of the Act, the Commission may by written notice require an undertaking to produce specified documents or information.
+(2) An undertaking shall produce the required documents or information within fourteen days of receiving the notice, or such extended period as the Commission may allow on application where genuine hardship is shown.
+(3) Documents shall be produced in original form or, where the Commission specifies, in a readable electronic format.
+(4) An undertaking may request confidential treatment for documents containing trade secrets or commercially sensitive information by making a written request at the time of production, with the affected documents marked 'CONFIDENTIAL' and reasons provided, and the Commission shall have regard to the request but is not bound by it and shall notify the undertaking before disclosing any document so marked
+(1) Failure to comply with a document production notice without reasonable excuse constitutes a contravention of these Regulations and is subject to the penalties applicable under the Act.
+34. Hearings
+(1) The Commission shall hold a hearing where —
+(a) the investigation raises disputed questions of fact that cannot fairly be resolved on the written record alone;
+(b) the Commission proposes to make an order that materially affects the undertaking's interests; or
+(c) the undertaking requests a hearing and the Commission considers that granting the request is consistent with the interests of justice and the efficient resolution of the complaint.
+(2) An undertaking subject to a hearing shall receive not less than thirty days' written notice of the date, time, and place of the hearing.
+(3) The undertaking shall have the right to —
+(a) legal representation of its choosing;
+(b) call witnesses and adduce expert evidence;
+(c) cross-examine witnesses called by the Commission;
+(d) make closing submissions; and
+(e) receive a record of the proceedings.
+(4) The complainant shall be entitled to attend the hearing and, with the Commission's leave, to make representations and adduce evidence, and the Commission shall ensure that the hearing process is accessible to consumers and not unduly technical or intimidating.
+(5) Findings of fact in Commission proceedings shall be made on the balance of probabilities.
+35. Decisions
+(1) For the purposes of section 148(5) of the Act, upon receiving the report of an investigation, the Commission shall —
+(a) issue a notice of non-referral to the complainant in the prescribed form, where the investigation does not establish a contravention;
+(b) make an order, which may include —
+(i) directing the undertaking to cease the contravening conduct;
+(ii) directing the undertaking to take specified remedial action, including a refund, replacement, repair, or compensation; and
+(iii) awarding damages to the complainant in accordance with section 149(3) of the Act, whether by consent order or by direct order where authorised by the Act; or
+(c) issue a compliance notice under section 150 of the Act.
+(2) The Commission shall issue its decision in writing within ninety days of the completion of the investigation. The decision shall —
+(a) set out the findings of fact with reference to the evidence considered;
+(b) identify the legal provisions applied;
+(c) state the conclusions reached;
+(d) where mediation was attempted, record the fact and the reasons why it did not result in settlement;
+(e) specify any remedy ordered and the reasons for it; and
+(f) notify the undertaking of its right of appeal to the Tribunal and the procedure for exercising it.
+(3) The Commission's decision under sub-regulation (1) is the exercise of the Commission's own statutory function, and the Commission shall not, in lieu of issuing a decision, advise or direct the complainant to seek redress before the Tribunal or a court, as the consumer's independent right of civil action under section 152 of the Act is in addition to, and not a substitute for, the Commission's determination
+(4) The Commission shall notify the complainant of the decision and its effect within seven business days of the decision being issued.
+36. Consent Orders
+(1) For the purposes of section 149 of the Act, where the Commission and an undertaking agree on proposed terms of resolution at any stage of the enforcement process including during mediation, investigation, or hearing —
+(a) the undertaking shall submit its proposed commitments to the Commission in writing;
+(b) the Commission may negotiate the terms and shall not agree to terms that fail to remedy the harm to consumers or deter future contravention;
+(c) a settlement agreement in the form set out in Schedule 5 shall be concluded;
+(d) the Commission shall publish notice of the proposed settlement and allow a period of thirty days for objections from interested persons; and
+(e) following the objection period, the Commission shall issue the consent order with written reasons addressing any objections received.
+(2) The Commission may, if it considers it appropriate, register the consent order in a court of competent jurisdiction in accordance with section 149(2) of the Act.
+(3) A consent order may include an award of damages to the complainant in accordance with section 149(3) of the Act.
+(4) A consent order shall specify —
+(a) the conduct to be ceased or modified;
+(b) any corrective or remedial measures to be taken;
+(c) any compensation payable to affected consumers;
+(d) the terms of compliance monitoring; and
+(e) the consequences of breach.
+(5) Breach of a consent order constitutes an independent contravention of these Regulations, separate from and in addition to the original contravention.
+37. Interim Orders
+(1) For the purposes of section 153(3) of the Act, the Commission may make an interim order requiring an undertaking to cease an alleged contravention pending the completion of an investigation or mediation where —
+(a) a prima facie case of contravention is established;
+(b) there is a serious risk of harm to consumers that could not adequately be remedied by compensation after the fact; and
+(c) the balance of convenience favours the making of the order.
+(2) An interim order shall not be made without the undertaking being given an opportunity to be heard, except where the Commission is satisfied that any delay would result in imminent and serious harm to consumers, in which case the order may be made and the undertaking given the opportunity to be heard within five business days of the order.
+(3) An interim order expires after one hundred and twenty days unless it is extended by the Commission upon written reasons or superseded by a final order.
+38. Compliance Monitoring
+(1) For the purposes of section 153 of the Act, where the Commission issues an enforcement order, consent order, or compliance notice —
+(a) the undertaking shall submit a compliance report to the Commission within thirty days of the order or notice and quarterly thereafter for as long as monitoring continues;
+(b) the Commission may conduct compliance audits, including unannounced visits to premises, in accordance with the Commission's inspection powers under the Act;
+(c) the undertaking shall cooperate with all monitoring activities and provide access to relevant records and premises; and
+(d) non-compliance with an order or notice is a separate contravention subject to the penalties applicable under the Act.
+(2) Unless the Commission specifies a longer period having regard to the nature of the contravention, compliance shall be monitored for two years from the date of the order or notice.
+(3) Where the Commission is satisfied that the undertaking has sufficiently complied with a compliance notice, the Commission shall issue a compliance certificate in accordance with section 150(3) of the Act.
+(4) Where an undertaking fails to comply with a compliance notice, the Commission shall, in accordance with section 150(4) of the Act —
+(a) shut down or close any premises from which the contravention continues until the breach is remedied;
+(b) impose the appropriate administrative fine; or
+(c) refer the matter to a court of competent jurisdiction for prosecution.
+39. Penalty Assessment
+(1) For the purposes of sections 154 and 155 of the Act, in determining the appropriate administrative penalty the Commission shall have regard to —
+(a) the nature and severity of the contravention;
+(b) whether the contravention was deliberate, negligent, or inadvertent;
+(c) the duration of the contravention;
+(d) the harm caused or likely to be caused to consumers;
+(e) whether the undertaking has previously contravened the Act or these Regulations;
+(f) the degree of cooperation of the undertaking during the investigation;
+(g) whether the undertaking participated in mediation in good faith; and
+(h) the undertaking's relevant annual turnover.
+(2) The Commission shall publish a penalty assessment methodology setting out the method of applying the factors in sub-regulation (1) to specific cases, and such methodology shall be published no later than the date of commencement of these Regulations and reviewed not less than every three years
+40. Review of Sector Regulator Decisions
+(1) For the purposes of section 47(2) of the Act, where an industry sector regulator exercises a power in respect of a matter that involves competition or consumer protection, any appeal from or request for review of that exercise of power shall, before being filed with the Tribunal, first be heard and determined by the Commission, to the extent that section 47(2) of the Act confers that jurisdiction on the Commission.
+(2) An undertaking or consumer seeking review of a sector regulator's decision in a competition or consumer protection matter shall file a request for review with the Commission —
+(a) within thirty days of the date on which the sector regulator's decision was notified to the applicant;
+(b) in writing, setting out —
+(i) the decision complained of and the sector regulator that made it;
+(ii) the grounds on which review is sought, which may include error of law, procedural unfairness, unreasonableness, or failure to take into account material considerations; and
+(iii) the remedy sought.
+(3) On receipt of a request for review, the Commission shall —
+(a) notify the sector regulator and request a copy of the decision, the reasons for it, and the record of the proceedings;
+(b) provide the sector regulator with an opportunity to make representations;
+(c) provide the applicant with an opportunity to respond to the sector regulator's representations; and
+(d) where the Commission considers it necessary, hold a hearing at which both the applicant and the sector regulator may appear.
+(4) The Commission shall issue a written decision on the review within ninety days of the request being filed. The Commission may —
+(a) affirm the sector regulator's decision;
+(b) set aside the sector regulator's decision in whole or in part;
+(c) remit the matter to the sector regulator with directions; or
+(d) substitute its own decision for that of the sector regulator, to the extent permitted by the Act.
+(5) A party aggrieved by the Commission's decision on a review under this regulation may appeal to the Tribunal in accordance with regulation 41.
+41. Appeals to the Tribunal
+(1) For the purposes of Part IX of the Act, an undertaking or other party aggrieved by a decision or enforcement action of the Commission under these Regulations whether made in original proceedings or on review of a sector regulator's decision may appeal to the Competition and Consumer Protection Tribunal —
+(a) within thirty days of the date on which the decision or action was notified to the party;
+(b) on the grounds of —
+(a) error of law;
+(b) procedural unfairness that caused material prejudice;
+(c) a finding of fact that is plainly wrong on the evidence; or
+(d) material evidence that was not available to the party before the Commission's decision and that could not with reasonable diligence have been placed before the Commission.
+(2) A party may apply to the Tribunal for an order suspending the effect of a Commission decision pending appeal where the party demonstrates a serious risk of irreparable harm if the decision takes immediate effect, and the Tribunal shall determine such an application within fourteen days.
+(3) The Tribunal shall endeavour to deliver its decision on an appeal within sixty days of the hearing.
+(4) An appeal under this regulation does not automatically stay the operation of a compliance notice issued under section 150 of the Act, and the undertaking must apply to the Tribunal for a stay if one is sought.
+PART VIII — EVIDENCE AND INVESTIGATIONS PROTOCOL
+42. Inspection and Search of Premises
+(1) For the purposes of sections 98 and 99 of the Act, where the Commission proposes to enter and search premises, a warrant shall be obtained from a Judge on application establishing reasonable grounds to suspect that evidence of a contravention is present on the premises.
+(2) An inspector conducting a search under warrant shall—
+(a) on entry, produce the warrant, identify themselves by name and authority, and explain the scope and purpose of the search;
+(b) confine the search and any seizure strictly to documents and materials within the warrant's stated scope;
+(c) prepare a contemporaneous inventory of all documents and materials seized; and
+(d) provide a copy of the inventory to the senior representative of the undertaking present before leaving.
+(3) Communications between the undertaking and its legal adviser made for the purpose of obtaining legal advice shall not be seized, and where there is a dispute as to whether a document is privileged, the document shall be sealed and set aside and the claim determined by a court of competent jurisdiction before the Commission may access or use the document.
+(4) Evidence obtained in material breach of this regulation may be ruled inadmissible in proceedings before the Commission or any court, and the Commission shall, when relying on evidence obtained in a search, be prepared to demonstrate compliance with this regulation.
+43. Digital Evidence
+(1) For the purposes of section 98 of the Act, digital evidence including electronic mail, server logs, website content, transaction data, and associated metadata shall be collected, preserved, and authenticated in accordance with accepted digital forensic standards, so as to ensure integrity and admissibility.
+(2) The Commission may, by written notice, require an undertaking to preserve specified digital evidence pending investigation, and an undertaking that destroys, alters, or conceals evidence after receiving such notice commits a separate contravention of these Regulations.
+(3) Where evidence is stored in a cloud environment or on servers not in the direct possession of the undertaking, the Commission may apply to a court of competent jurisdiction for an order requiring the undertaking to procure and produce access to that data.
+44. Chain of Custody
+(1) All evidence collected in the course of an investigation shall be subject to the following chain of custody procedures—
+(a) each person who handles evidence shall record their name, the date, the time, and the purpose of the handling in a custody log;
+(b) evidence shall be stored in a secure, controlled location accessible only to persons authorised in writing by the Commission;
+(c) the undertaking shall, on request, be given access to inspect the custody log; and
+(d) a material break in the chain of custody is a ground on which the admissibility of the affected evidence may be challenged before the Commission or any court.
+45. Expert Evidence
+(1) An expert appointed by the Commission to give evidence in any investigation or proceeding shall—
+(a) hold qualifications and professional experience appropriate to the subject matter of the opinion sought;
+(b) disclose any actual or potential conflict of interest before accepting appointment and immediately upon becoming aware of any conflict during the engagement;
+(c) provide a written report setting out the methodology applied, the findings reached, and the expert's qualifications and relevant experience;
+(d) be available for cross-examination on the report; and
+(e) apply a methodology that is scientifically or professionally sound and capable of independent verification or replication.
+46. Legal Professional Privilege
+(1) An undertaking may claim legal professional privilege over—
+(b) confidential communications between the undertaking and its legal advisers made for the purpose of obtaining legal advice; and
+(c) documents prepared in connection with actual or reasonably anticipated litigation.
+(2) An undertaking claiming privilege over documents required by the Commission shall at the same time provide a privilege log containing, for each withheld document, the date of the document, the parties to the communication, and a general description of its subject matter sufficient to enable the Commission to assess the claim.
+(3) The Commission may challenge a claim of privilege before a court of competent jurisdiction, and pending determination of the challenge, the documents in question shall be held in sealed custody and shall not be accessed or used by the Commission.
+PART IX — MISCELLANEOUS PROVISIONS
+47. Vulnerable Consumers
+(1) In exercising its functions under these Regulations, the Commission shall give particular consideration to the protection of consumers who, by reason of age, disability, limited literacy, mental health condition, or economic distress, are especially susceptible to exploitation.
+(2) An undertaking shall not engage in marketing or commercial practices that specifically target or seek to exploit consumers described in sub-regulation (1).
+(3) Where an undertaking has reasonable grounds to identify a consumer as particularly susceptible to exploitation, the undertaking shall take reasonable steps to protect that consumer, which may include—
+(a) providing information in a format or language accessible to the consumer;
+(b) allowing the consumer additional time to consider a transaction before committing; and
+(c) refraining from the use of high-pressure sales techniques.
+(4) The Commission shall issue guidelines on the identification and protection of vulnerable consumers, to be reviewed not less than every three years.
+48. Alternative Dispute Resolution
+(1) Without limiting the mediation and conciliation procedures set out in regulation 30, the Commission shall maintain or facilitate access to alternative dispute resolution mechanisms for the resolution of consumer disputes that fall outside the scope of, or are not suitable for, the formal mediation process.
+(2) An undertaking shall not prevent or discourage a consumer from accessing an alternative dispute resolution mechanism, and any contractual term purporting to do so is void.
+(3) The Commission may enter into memoranda of understanding with recognised alternative dispute resolution providers.
+49. Transitional Provisions
+(1) Any enforcement proceeding initiated under a regulation in force immediately before the commencement of these Regulations shall continue and be completed as if these Regulations had not been made, unless the undertaking elects in writing to be dealt with under these Regulations, in which case the Commission shall apply these Regulations from the date of that election.
+(2) Any right accrued or obligation incurred before the commencement of these Regulations shall not be affected by the commencement of these Regulations.
+(3) An undertaking shall have ninety days from the date of commencement to bring its contracts, practices, and systems into compliance with these Regulations.
+50. Savings and Repeal
+(1) To the extent that any previous subsidiary legislation is inconsistent with these Regulations, these Regulations prevail and the inconsistent provisions of the earlier legislation are, to the extent of the inconsistency, without effect from the date of commencement of these Regulations.
+(2) The Commission shall, within sixty days of the commencement of these Regulations, publish in the Federal Government Official Gazette a notice identifying any previous consumer protection regulations that it considers superseded in whole or in part by these Regulations.
+51. Interpretation Definitions
+(1) In these Regulations, unless the context otherwise requires— "Act" means the Federal Competition and Consumer Protection Act, 2018; "business day" means any day other than a Saturday, Sunday, or public holiday in the Federal Republic of Nigeria; "commercial influence" means any communication, content, or presentation made, published, or procured by an undertaking for the purpose of promoting, directly or indirectly, the supply or use of any products, whether or not direct payment is involved; "Commission" means the Federal Competition and Consumer Protection Commission established under section 1 of the Act; "compliance notice" means a notice issued by the Commission under section 150 of the Act requiring an undertaking to remedy a contravention; "consent order" means an order made under section 149 of the Act on terms agreed between the Commission and an undertaking; "consumer" has the meaning assigned to it in section 167 of the Act; "digital content" means data produced and supplied in digital form, including software, applications, audio recordings, video recordings, electronic books, and online services, whether supplied on a tangible medium or by transmission; "digital marketplace" means a digital interface through which third-party sellers offer goods or services to consumers; "digital transaction" means a transaction concluded or performed in whole or in part through electronic or online means, including transactions concluded through websites, mobile applications, and automated digital systems; "distance contract" means a contract for the supply of goods, services, or digital content concluded between an undertaking and a consumer without their simultaneous physical presence, using one or more means of distance communication up to and including the moment of conclusion; "goods" has the meaning assigned to it in section 167 of the Act; "industry sector regulator" means a regulatory body established by law to regulate a specific sector or industry, as referred to in section 104 of the Act; "inspector" means a person designated by the Commission to conduct investigations, inspections, or searches under the Act or these Regulations; "mediation" means a voluntary process in which a neutral third person assists the parties in identifying issues and exploring mutually acceptable solutions, and includes conciliation; "online platform" means an online service that hosts, aggregates, or facilitates the publication of commercial communications or consumer content by third parties, and includes a digital marketplace; "ordinary consumer" means a consumer who is reasonably well-informed, reasonably observant, and reasonably circumspect, having regard to the social, cultural, and linguistic factors relevant to the transaction; "products" means goods, services, and digital content; "services" has the meaning assigned to it in section 167 of the Act; "Tribunal" means the Competition and Consumer Protection Tribunal established under section 39 of the Act; "undertaking" has the meaning assigned to it in section 167 of the Act.
+(2) Terms used but not defined in these Regulations bear the meanings assigned to them in the Act.
+(3) A reference to a section of the Act is a reference to that section as amended or reenacted from time to time.
+(4) A reference to a Schedule is a reference to a Schedule to these Regulations.
+52. Citation
+(1) These Regulations may be cited as the Federal Competition and Consumer Protection (Consumer Protection) Regulations, 2026.
+SCHEDULES
+SCHEDULE 1
+INDICATIVE GREY LIST OF PRESUMPTIVELY UNFAIR CONTRACT TERMS
+(regulation 16(4)) The following is an indicative, non-exhaustive list of terms that are presumptively unfair for the purposes of regulation 16. The Commission shall publish the complete Grey List within one hundred and eighty days of commencement, after public consultation. This indicative list operates with immediate effect. A term is presumptively unfair if, without limitation, it—
+(a) seeks to limit or exclude the undertaking's liability for death or personal injury caused by its negligence;
+(b) seeks to exclude or limit the consumer's right to return defective goods or to seek a refund for defective services;
+(c) entitles the undertaking to retain a deposit or advance payment where the undertaking has not performed and the consumer is not at fault;
+(d) provides for automatic price increases after a fixed period without the consumer's express consent;
+(e) requires the consumer to submit any dispute exclusively to arbitration in a manner that prevents the consumer from accessing the courts or the Commission;
+(f) gives the undertaking the exclusive right to determine whether its products conform to the contract;
+(g) restricts the consumer's right to seek a remedy in a court of competent jurisdiction;
+(h) allows the undertaking to supply different products from those described, without the consumer's agreement;
+(i) imposes disproportionate cancellation or exit fees;
+(j) requires the consumer to accept binding legal documents that were not accessible before the contract was concluded; or
+(k) enables the undertaking to unilaterally vary the fundamental terms of the contract, including price, duration, or scope, without the consumer's prior consent. [Commission to complete the full Grey List after public consultation pursuant to regulation 16(4)]
+SCHEDULE 2
+PRODUCT RECALL PLAN (FORM PR-1)
+(regulation 22(1)) INSTRUCTIONS: This form must be submitted to the Commission within ten business days of initiating a product recall, in accordance with regulation 22(1). All fields are mandatory unless indicated as optional.
+FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISSION
+FORM PR-1 — PRODUCT RECALL PLAN
+Filed pursuant to regulation 22(1) of the Consumer Protection Regulations, 2026
+PART A — UNDERTAKING DETAILS
+1. Name of undertaking
+2. RC number
+3. Registered address
+4. Contact person (name and designation)
+5. Telephone number
+6. Email address
+PART B — PRODUCT INFORMATION
+7. Product name and description
+8. Brand / trade name
+9. Model / type / variant
+10. Batch, lot, or serial numbers of affected units
+11. Date(s) of manufacture
+12. Date(s) placed on the market
+13. Country of origin
+PART C — HAZARD DESCRIPTION
+14. Nature of the defect, hazard, or non-compliance
+15. Risk to consumer health or safety
+16. Known incidents, injuries, or complaints (if any)
+17. Cause of the defect (if known)
+PART D — SCOPE AND DISTRIBUTION
+18. Geographic areas where the product was distributed
+19. Distribution channels (retail, online, wholesale, etc.)
+20. Estimated number of affected units in circulation
+21. Estimated number of consumers affected
+PART E — CONSUMER NOTIFICATION PLAN
+22. Method(s) of notification to consumers
+23. Date notification commenced or will commence
+24. Text of notice to consumers (attach as Annexure A)
+PART F — RETRIEVAL LOGISTICS
+25. Method of retrieval (return, collection, etc.)
+26. Collection or drop-off points
+27. Arrangements for consumer convenience and cost
+28. Timeline for completion of recall
+PART G — CONSUMER REMEDIES
+29. Remedy offered (repair, replacement, refund, or combination)
+30. Timeline for provision of remedy
+31. Additional compensation (if any)
+PART H — DECLARATION
+I, the undersigned, being duly authorised to act on behalf of the above-named undertaking, hereby certify that the information provided in this form is true and complete to the best of my knowledge and belief. Name: _____________________________ Designation: _____________________________ Signature: __________________________ Date: ___________________________________ Official stamp of undertaking (where applicable):
+SCHEDULE 3
+CONSUMER COMPLAINT FORM (FORM CP-1)
+(regulations 26(3), 28(1))
+FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISSION
+FORM CP-1 — CONSUMER COMPLAINT FORM
+Filed pursuant to regulations 26(3) and 27(1) of the Consumer Protection Regulations, 2026
+PART A — CONSUMER DETAILS
+1. Full name
+2. Residential address
+3. Telephone number
+4. Email address
+5. Identification NIN / Passport No. / Driver's Licence No.
+PART B — UNDERTAKING COMPLAINED OF
+6. Name of undertaking
+7. Address of undertaking
+8. Contact details of undertaking (if known)
+9. Branch or outlet (if applicable)
+PART C — TRANSACTION DETAILS
+10. Date of transaction or conduct
+11. Product or service purchased or contracted for
+12. Amount paid (₦)
+13. Receipt or invoice number (if available)
+14. Method of purchase (instore, online, distance, etc.)
+PART D — DESCRIPTION OF COMPLAINT
+15. Nature of the complaint
+16. Detailed description of the alleged contravention
+17. Provision(s) of the Act or Regulations alleged to have been contravened (if known)
+18. Steps taken to resolve the matter with the undertaking, and outcome
+PART E — REMEDY SOUGHT
+19. Remedy sought (refund, repair, replacement, compensation, etc.)
+20. Amount of compensation claimed (if applicable) (₦)
+PART F — SUPPORTING DOCUMENTS
+21. List all documents attached in support of this complaint (tick as applicable): □ Receipt or proof of purchase □ Contract or terms and conditions □ Photographs of product or defect □ Correspondence with the undertaking □ Expert or technical report □ Other (specify): ___________________________________
+PART G — DECLARATION
+I, the undersigned, hereby declare that the information provided in this form is true and accurate to the best of my knowledge. I understand that the provision of false or misleading information may constitute an offence under the Act. Name: _____________________________ Signature: __________________________ Date: ___________________________________
+FOR OFFICIAL USE ONLY
+Complaint reference number: _______________ Date received: _______________ Received by: _______________ Assigned to: _______________
+SCHEDULE 4
+NOTICE OF INVESTIGATION (FORM CP-2)
+(regulation 31(2))
+FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISSION
+FORM CP-2 — NOTICE OF INVESTIGATION
+Issued pursuant to regulation 31(2) of the Consumer Protection Regulations, 2026 Reference No.: _________________________ Date: _________________________
+PART A — ADDRESSEE
+1. Name of undertaking
+2. RC number
+3. Registered address
+4. Contact person (name and designation)
+PART B — SUBJECT MATTER OF INVESTIGATION
+5. Description of the conduct under investigation
+6. Product(s) or service(s) concerned
+7. Period of the conduct under investigation
+8. Provision(s) of the Act or Regulations alleged to have been contravened
+PART C — DOCUMENTS AND INFORMATION REQUIRED
+9. The undertaking is hereby required, pursuant to section 17(d) and (e) of the Act, to produce or furnish the following documents and information:
+(a) _______________________________________________________________
+(b) _______________________________________________________________
+(c) _______________________________________________________________
+(d) _______________________________________________________________
+(e) _______________________________________________________________
+PART D — RESPONSE DEADLINE
+10. The above documents and information shall be submitted to the Commission at the address below within __________ business days of service of this notice. Address for submission: Federal Competition and Consumer Protection Commission, ______________________________________
+PART E — STATEMENT OF PROCEDURAL RIGHTS
+11. The undertaking is informed that—
+(a) it is entitled to be represented by legal counsel at all stages of this investigation;
+(b) it may submit written representations in response to this notice within the time specified in paragraph 10;
+(c) it shall be afforded an opportunity to be heard before any adverse finding is made;
+(d) it may request the Commission to treat specific documents or information as confidential, providing reasons in accordance with the Commission's rules on confidentiality;
+(e) failure to comply with this notice without reasonable cause may constitute an offence under section 17 of the Act and may result in penalties as provided by law; and
+(f) the investigation may be resolved by consent in accordance with regulation 36.
+ISSUED BY
+Name: _____________________________ Designation: _____________________________ Signature: __________________________ Date: ___________________________________ For and on behalf of the Federal Competition and Consumer Protection Commission
+SCHEDULE 5
+CONSENT ORDER AND SETTLEMENT AGREEMENT TEMPLATE
+(regulation 36(1)(c))
+BEFORE THE FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISSION
+IN THE MATTER OF:
+Complaint Reference No.: _________________________
+BETWEEN:
+THE FEDERAL COMPETITION AND CONSUMER PROTECTION COMMISSION
+Commission
+AND
+[Name of undertaking] Respondent
+CONSENT ORDER AND SETTLEMENT AGREEMENT
+WHEREAS:
+A. The Commission initiated an investigation into the conduct of the Respondent under reference number _________________________ relating to [describe conduct], in accordance with regulation __________ of the Consumer Protection Regulations, 2026. B. The Commission formed the preliminary view that the Respondent's conduct may have contravened the following provisions:
+(i) Section __________ of the Federal Competition and Consumer Protection Act, 2018;
+(ii) Regulation __________ of the Consumer Protection Regulations, 2026;
+(iii) [Other provisions, if applicable]: __________________________________________. C. The Respondent [admits / does not admit] the contravention but wishes to resolve the matter by consent in accordance with regulation 36 of the Consumer Protection Regulations, 2026. D. The Commission, having considered the representations of the Respondent and the interests of affected consumers, is satisfied that it is appropriate to resolve this matter by consent. NOW THEREFORE, the Commission and the Respondent agree as follows:
+PART 1 — IDENTIFICATION OF THE PARTIES
+1.1 The Commission: The Federal Competition and Consumer Protection Commission, established under section 3 of the Federal Competition and Consumer Protection Act, 2018, with its principal office at __________________________________________. 1.2 The Respondent: [Full legal name], a company incorporated under the laws of the Federal Republic of Nigeria with RC number __________, having its registered office at __________________________________________.
+PART 2 — DESCRIPTION OF CONDUCT
+2.1 The conduct giving rise to this proceeding is as follows: [Set out a clear description of the conduct, including the products or services involved, the period of the conduct, and the consumers affected.]
+PART 3 — TERMS OF SETTLEMENT
+Cessation of conduct 3.1 The Respondent shall immediately cease and desist from [describe the conduct to be stopped]. Corrective measures 3.2 The Respondent shall, within __________ business days of the date of this Agreement:
+(a) [describe corrective action 1];
+(b) [describe corrective action 2];
+(c) [describe corrective action 3, if applicable]. Consumer compensation 3.3 The Respondent shall provide the following compensation to affected consumers:
+(a) [describe compensation, e.g. refund, replacement, repair, monetary payment];
+(b) the total value of compensation shall not be less than ₦__________;
+(c) compensation shall be provided within __________ business days of the date of this Agreement. Administrative penalty 3.4 The Respondent shall pay an administrative penalty of ₦__________ to the Commission within __________ business days of the date of this Agreement.
+PART 4 — COMPLIANCE MONITORING
+4.1 The Respondent shall submit to the Commission a written compliance report within __________ business days of the date of this Agreement, and thereafter at intervals of __________ months for a period of __________ [months/years], confirming compliance with the terms set out in Part 3. 4.2 The Commission reserves the right to conduct inspections, request further information, and take such steps as are necessary to verify compliance. 4.3 The Respondent shall designate the following person as its compliance officer for the purposes of this Agreement: [Name, designation, and contact details].
+PART 5 — CONSEQUENCES OF BREACH
+5.1 In the event that the Respondent fails to comply with any term of this Agreement, the Commission may—
+(a) revoke this consent order and resume the investigation or enforcement proceedings;
+(b) impose such penalties as are provided by the Act for the original contravention; and
+(c) apply to the Federal High Court for an order enforcing the terms of this Agreement. 5.2 The Respondent acknowledges that a breach of this Agreement may be treated as a separate contravention of the Act.
+PART 6 — GENERAL PROVISIONS
+6.1 This Agreement shall take effect on the date of the last signature below. 6.2 This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof. 6.3 This Agreement shall be published on the Commission's website in accordance with regulation 36, subject to the protection of confidential information. 6.4 Nothing in this Agreement shall preclude a consumer from exercising any private right of action under the Act.
+SIGNED:
+FOR THE COMMISSION: FOR THE RESPONDENT:
+Name: _________________________ Name: _________________________ Designation: ___________________ Designation: ___________________ Signature: _____________________ Signature: _____________________ Date: _________________________ Date: _________________________ Seal of the Commission Official stamp of undertaking
+AUTHORISATION
+Made by the Federal Competition and Consumer Protection Commission this ________________ day of ________________________________, 2026. _________________________________________________________________ Executive Vice-Chairman / Chief Executive Officer Federal Competition and Consumer Protection Commission
