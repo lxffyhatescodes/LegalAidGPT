@@ -1,0 +1,34 @@
+import sys
+import time
+from pathlib import Path
+
+import ollama
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from assistant.llm import _messages, _options
+
+hits = [{
+    "text": "Any person who is arrested or detained shall be brought before a court of law within a reasonable time...",
+    "metadata": {"source": "Constitution of Nigeria 1999", "section": "35"},
+    "distance": 0.2,
+}]
+question = "I was arrested yesterday. How long can police hold me?"
+models = ["llama3.2:3b", "qwen2.5:7b-instruct"]
+RUNS = 3
+
+for m in models:
+    print(f"\n=== {m} ===")
+    # Warm-up: the first call includes loading the model into RAM, so don't count it
+    ollama.chat(model=m, messages=_messages(question, hits), options=_options())
+
+    speeds, totals = [], []
+    for i in range(RUNS):
+        start = time.perf_counter()
+        r = ollama.chat(model=m, messages=_messages(question, hits), options=_options())
+        wall = time.perf_counter() - start
+        tps = r["eval_count"] / (r["eval_duration"] / 1e9)
+        speeds.append(tps)
+        totals.append(wall)
+        print(f"run {i+1}: {r['eval_count']} tokens, {tps:.1f} tokens/sec, {wall:.1f}s total")
+
+    print(f"AVERAGE: {sum(speeds)/RUNS:.1f} tokens/sec, {sum(totals)/RUNS:.1f}s per answer")
