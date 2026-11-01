@@ -95,8 +95,13 @@ def ask(question: str, history: list | None = None) -> Answer:
 
     # 3. local LLM (in a worker thread so a hung model cannot freeze the UI forever)
     try:
-        from assistant import llm
-        text = _pool.submit(llm.answer, chk.question, hits).result(timeout=LLM_TIMEOUT_SECONDS)
+        if config.PROMPT_MODE == "backend":
+            from . import prompts
+            text = _pool.submit(prompts.fallback_answer, chk.question, hits, NO_SOURCE).result(
+                timeout=LLM_TIMEOUT_SECONDS)
+        else:
+            from assistant import llm
+            text = _pool.submit(llm.answer, chk.question, hits).result(timeout=LLM_TIMEOUT_SECONDS)
     except FutureTimeout:
         return _finish(Answer("The model took too long to answer. Please try a shorter question.",
                               status="error", warnings=["Model timeout."]), t0)

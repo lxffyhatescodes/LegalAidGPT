@@ -118,3 +118,29 @@ def test_no_retry_when_match_is_weak(monkeypatch):
     monkeypatch.setattr(llm, "answer", lambda *a, **k: pipeline.NO_SOURCE)
     monkeypatch.setattr(pipeline, "_strong_match", lambda hits: False)
     assert pipeline.ask("I was arrested yesterday. How long can police hold me?").status == "no_source"
+
+
+def test_backend_prompt_mode_skips_group2_prompt(monkeypatch):
+    from assistant import llm
+    from backend import prompts, settings
+    monkeypatch.setattr(settings, "PROMPT_MODE", "backend")
+    monkeypatch.setattr(llm, "answer", lambda *a, **k: (_ for _ in ()).throw(AssertionError("group2 prompt used")))
+    monkeypatch.setattr(prompts, "fallback_answer", lambda q, hits, msg: (
+        f"Rule [{hits[0]['metadata']['source']}, section {hits[0]['metadata']['section']}]."))
+    assert pipeline.ask("I was arrested yesterday. How long can police hold me?").status == "ok"
+
+
+def test_backend_prompt_declines_on_not_covered():
+    import sys
+    import types
+    from backend import prompts
+    saved = sys.modules.get("ollama")
+    sys.modules["ollama"] = types.SimpleNamespace(chat=lambda **k: {"message": {"content": "NOT_COVERED"}})
+    try:
+        hits = [{"text": "t", "metadata": {"source": "S", "section": "1"}}]
+        assert prompts.fallback_answer("q", hits, "NO") == "NO"
+    finally:
+        if saved is not None:
+            sys.modules["ollama"] = saved
+        else:
+            del sys.modules["ollama"]

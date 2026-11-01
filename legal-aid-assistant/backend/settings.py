@@ -24,3 +24,6 @@ FALLBACK_MIN_SCORE = 0.12    # keyword (TF-IDF) fallback threshold when no embed
 RETRIEVAL_BACKEND = "auto"   # "auto" | "dense" | "keyword"
 MAX_QUESTION_CHARS = 1500
 EXCERPT_CHARS = 450
+
+# Which prompt answers: "group2_then_backup" (default) or "backend" (always use backend/prompts.py)
+PROMPT_MODE = "backend"
