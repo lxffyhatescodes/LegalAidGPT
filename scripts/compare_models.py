@@ -1,0 +1,26 @@
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from assistant.llm import answer
+
+hits = [{
+    "text": "Any person who is arrested or detained shall be brought before a court of law within a reasonable time...",
+    "metadata": {"source": "Constitution of Nigeria 1999", "section": "35"},
+    "distance": 0.2,
+}]
+
+questions = [
+    "I was arrested yesterday. How long can police hold me?",
+    "Can police arrest me without telling me why?",
+    "What is the penalty for tax evasion?",   # out of scope, should decline
+]
+
+models = ["llama3.2:3b", "qwen2.5:7b-instruct"]
+
+with open("model_comparison.md", "w", encoding="utf-8") as f:
+    for q in questions:
+        f.write(f"## {q}\n\n")
+        for m in models:
+            f.write(f"### {m}\n\n{answer(q, hits, model=m)}\n\n")
+print("Saved model_comparison.md")
