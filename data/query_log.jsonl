@@ -1,0 +1,17 @@
+{"topic": "all", "retrieval_ms": 7382, "generation_ms": 101856, "grounded": false, "refused": false, "ts": "2026-11-02T15:52:02+00:00"}
+{"topic": "all", "retrieval_ms": 6796, "generation_ms": 107150, "grounded": false, "refused": false, "ts": "2026-11-02T16:22:39+00:00"}
+{"topic": "all", "retrieval_ms": 2916, "generation_ms": 80572, "grounded": true, "refused": false, "ts": "2026-11-02T18:52:41+00:00"}
+{"topic": "all", "retrieval_ms": 398, "generation_ms": 39946, "grounded": false, "refused": false, "ts": "2026-11-02T18:54:54+00:00"}
+{"topic": "all", "retrieval_ms": 547, "generation_ms": 46356, "grounded": false, "refused": false, "ts": "2026-11-02T18:56:57+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": false, "ts": "2026-11-03T02:53:06+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": false, "ts": "2026-11-03T02:53:06+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": false, "ts": "2026-11-03T02:53:06+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": false, "ts": "2026-11-03T02:53:06+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": true, "ts": "2026-11-03T02:53:06+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": true, "ts": "2026-11-03T02:53:06+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": false, "ts": "2026-11-03T02:56:24+00:00"}
+{"topic": "arrest", "retrieval_ms": 3143, "generation_ms": 109686, "grounded": true, "refused": false, "ts": "2026-11-03T02:59:14+00:00"}
+{"topic": "arrest", "retrieval_ms": 669, "generation_ms": 56056, "grounded": false, "refused": false, "ts": "2026-11-03T03:04:11+00:00"}
+{"topic": "all", "retrieval_ms": 3914, "generation_ms": 117333, "grounded": true, "refused": false, "ts": "2026-11-03T04:07:27+00:00"}
+{"topic": "all", "retrieval_ms": 3167, "generation_ms": 74360, "grounded": false, "refused": false, "ts": "2026-11-03T08:39:48+00:00"}
+{"topic": "all", "retrieval_ms": 0, "generation_ms": 0, "grounded": false, "refused": true, "ts": "2026-11-03T08:40:32+00:00"}
