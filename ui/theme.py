@@ -3,7 +3,7 @@ theme.py : the look shared by every page.
 
 What lives here
   1. The logo
-  2. The colours (light and dark), the one place to change them
+  2. The colours (green and white, light and dark), the one place to change them
   3. Loading the CSS files and applying light / dark mode
   4. The Appearance switch (System / Light / Dark)
   5. Sidebar pieces: brand, links to other pages, the "Back to home" button
@@ -20,11 +20,11 @@ import streamlit as st
 STYLES_DIR = Path(__file__).resolve().parent / "styles"
 
 
-# 1. LOGO  (a balanced scale on a blue-purple tile)
+# 1. LOGO  (a balanced scale on a green tile)
 MARK_SVG = (
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">'
     '<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">'
-    '<stop offset="0" stop-color="#4D6BFE"/><stop offset="1" stop-color="#9B72CB"/></linearGradient></defs>'
+    '<stop offset="0" stop-color="#00A86B"/><stop offset="1" stop-color="#006B3F"/></linearGradient></defs>'
     '<rect width="48" height="48" rx="14" fill="url(#lg)"/>'
     '<g fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">'
     '<path d="M24 10v28"/><path d="M16 38h16"/><path d="M11 15h26"/>'
@@ -40,39 +40,37 @@ MARK_URI = "data:image/svg+xml;utf8," + quote(MARK_SVG, safe="")
 #    Each line is  --name:#colour;  and the CSS files use it as var(--name).
 LIGHT_VARS = """
     --bg:#FFFFFF;            /* page background */
-    --side:#F0F4F9;          /* sidebar background */
-    --surface:#F0F4F9;       /* soft boxes: message bubbles, cards, input bar */
-    --surface-hover:#E3E9F2; /* a surface when the mouse is over it */
-    --active:#D3E3FD;        /* highlighted item (current chat or page) */
-    --active-ink:#041E49;    /* text on a highlighted item */
-    --ink:#1F1F1F;           /* main text */
-    --muted:#5F6368;         /* quieter text */
-    --line:#E3E6EA;         /* thin borders */
+    --side:#F1F8F4;          /* sidebar background */
+    --surface:#F1F8F4;       /* soft boxes: message bubbles, cards, input bar */
+    --surface-hover:#E0F0E7; /* a surface when the mouse is over it */
+    --active:#CDE9D8;        /* highlighted item (current chat or page) */
+    --active-ink:#0B3D24;    /* text on a highlighted item */
+    --ink:#1A1F1C;           /* main text */
+    --muted:#5B6660;         /* quieter text */
+    --line:#DDE7E1;          /* thin borders */
     --card:#FFFFFF; --field:#FFFFFF; --pop:#FFFFFF;   /* white boxes, input fields, dropdown menus */
     --focus-bg:#FFFFFF;      /* chat box while typing */
     --circle:#FFFFFF;        /* small round icon on a suggestion card */
-    --link:#3F5BE0;          /* links */
-    --blue:#4D6BFE; --blue-dark:#3F5BE0;               /* main button colour and its hover colour */
-    --g1:#4D6BFE; --g2:#9B72CB; --g3:#D96570;          /* greeting gradient: left, middle, right */
+    --link:#008751;          /* links (Nigerian flag green) */
+    --green:#008751; --green-dark:#006B3F;            /* main button colour and its hover colour */
     --urgent-bg:#FCE8E6; --urgent-ink:#5F1812; --urgent-strong:#B3261E;   /* red "need help now" box */
-    --info-bg:#E8F0FE; --info-ink:#1F2A5C;             /* blue notice */
+    --info-bg:#E6F4EC; --info-ink:#0B3D24;             /* green notice */
     --warn-bg:#FEF7E0; --warn-ink:#4A3500;             /* amber notice */
-    --shadow:rgba(77,107,254,.14);                     /* glow around the chat box */
+    --shadow:rgba(0,135,81,.16);                       /* glow around the chat box */
     --chart-filter:none;                               /* charts are drawn as they are in light mode */
     color-scheme: light;
 """
 
 DARK_VARS = """
-    --bg:#131314; --side:#1E1F20; --surface:#1E1F20; --surface-hover:#2B2C2F;
-    --active:#2D3A63; --active-ink:#DCE5FF;
-    --ink:#E3E3E3; --muted:#A0A5AB; --line:#2E3033;
-    --card:#1A1B1D; --field:#131314; --pop:#1E1F20;
-    --focus-bg:#1E1F20; --circle:#131314;
-    --link:#8FA4FF;
-    --blue:#4D6BFE; --blue-dark:#5A77FF;
-    --g1:#7C93FF; --g2:#B692E8; --g3:#F08A97;
+    --bg:#0F1512; --side:#16201B; --surface:#16201B; --surface-hover:#1F2D26;
+    --active:#1E4D36; --active-ink:#D8F3E4;
+    --ink:#E6EDE9; --muted:#9AA8A0; --line:#26332C;
+    --card:#121B16; --field:#0F1512; --pop:#16201B;
+    --focus-bg:#16201B; --circle:#0F1512;
+    --link:#4CC38A;
+    --green:#00A86B; --green-dark:#00C27A;
     --urgent-bg:#3B1B19; --urgent-ink:#F4C7C3; --urgent-strong:#FF8A80;
-    --info-bg:#1E2A4A; --info-ink:#CFDBFF; --warn-bg:#3A3015; --warn-ink:#F6E3A1;
+    --info-bg:#17382A; --info-ink:#CFEFDD; --warn-bg:#3A3015; --warn-ink:#F6E3A1;
     --shadow:rgba(0,0,0,.5);
     --chart-filter:invert(1) hue-rotate(180deg);       /* flips the Analytics charts so text is light on dark */
     color-scheme: dark;

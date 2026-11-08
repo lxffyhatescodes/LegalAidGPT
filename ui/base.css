@@ -18,7 +18,7 @@ html, body, .stApp, [data-testid="stAppViewContainer"], button, input, textarea,
 header[data-testid="stHeader"] {background: transparent !important;}
 header[data-testid="stHeader"] button, [data-testid="stSidebarCollapseButton"] button,
 [data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"] button {color: var(--muted) !important;}
-:focus-visible {outline: 3px solid rgba(77,107,254,.55) !important; outline-offset: 2px;}
+:focus-visible {outline: 3px solid rgba(0,135,81,.55) !important; outline-offset: 2px;}
 
 /* text colours follow the theme, whatever Streamlit's own theme is */
 [data-testid="stMarkdownContainer"] :is(p, li, h1, h2, h3, h4, strong, em, td, th),
@@ -57,13 +57,13 @@ section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"]:hover {back
     font-weight: 600; transition: background .15s;}
 .stButton button p {color: inherit;}
 .stButton button:hover {background: var(--surface-hover); color: var(--ink);}
-.stButton button[kind="primary"], .stButton button[data-testid="stBaseButton-primary"] {background: var(--blue); color: #fff;}
-.stButton button[kind="primary"]:hover, .stButton button[data-testid="stBaseButton-primary"]:hover {background: var(--blue-dark); color: #fff;}
+.stButton button[kind="primary"], .stButton button[data-testid="stBaseButton-primary"] {background: var(--green); color: #fff;}
+.stButton button[kind="primary"]:hover, .stButton button[data-testid="stBaseButton-primary"]:hover {background: var(--green-dark); color: #fff;}
 .stButton button:disabled {opacity: .5; cursor: not-allowed;}
 
 /* ---------- selectbox and its dropdown ---------- */
 [data-baseweb="select"] > div {border-radius: 12px; border-color: transparent; background: var(--field);}
-[data-baseweb="select"] > div:focus-within {border-color: var(--blue);}
+[data-baseweb="select"] > div:focus-within {border-color: var(--green);}
 [data-baseweb="select"] div, [data-baseweb="select"] span, [data-baseweb="select"] input {color: var(--ink);}
 [data-baseweb="select"] svg {fill: var(--muted);}
 [data-baseweb="popover"], [data-baseweb="popover"] > div, [data-baseweb="menu"], [data-baseweb="menu"] ul {
@@ -75,7 +75,7 @@ section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"]:hover {back
 [data-testid="stTextArea"] textarea, [data-testid="stTextArea"] [data-baseweb="textarea"],
 [data-testid="stTextArea"] [data-baseweb="base-input"] {background: var(--field) !important; color: var(--ink) !important;}
 [data-testid="stTextArea"] [data-baseweb="textarea"] {border: 1px solid var(--line); border-radius: 14px;}
-[data-testid="stTextArea"] [data-baseweb="textarea"]:focus-within {border-color: var(--blue);}
+[data-testid="stTextArea"] [data-baseweb="textarea"]:focus-within {border-color: var(--green);}
 [data-testid="stFileUploaderDropzone"] {background: var(--field) !important; border: 1.5px dashed var(--line); border-radius: 14px; padding: .8rem;}
 [data-testid="stFileUploaderDropzone"] * {color: var(--muted);}
 [data-testid="stFileUploaderDropzone"] svg {fill: var(--muted);}

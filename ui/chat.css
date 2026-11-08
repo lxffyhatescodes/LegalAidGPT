@@ -3,7 +3,7 @@
 
    The shared colours and basics come from base.css. This file only adds the
    chat-specific parts: welcome screen, suggestion cards, message bubbles,
-   the message box at the bottom, and the sources list.
+   the message box at the bottom, and the sources under each answer.
 
    ui/app.py adds three things after this file when the page loads: the small icons on the
    suggestion cards, the logo shown as the assistant's avatar, and the disclaimer text
@@ -11,9 +11,6 @@
 */
 
 .block-container {max-width: 860px; padding-top: 2rem; padding-bottom: 7rem;}
-.srclist {list-style: none; margin: 0; padding: 0;}
-.srclist li {font-size: .8rem; line-height: 1.4; color: var(--muted); padding: .45rem .7rem; margin-bottom: .35rem;
-             background: var(--field); border-radius: 12px;}
 
 /* ---------- buttons on this page: starter cards, and pills in the sidebar ---------- */
 .stButton button {
@@ -33,9 +30,9 @@ section[data-testid="stSidebar"] .stButton button p {white-space: nowrap; overfl
 section[data-testid="stSidebar"] .stButton button:hover {background: var(--surface-hover);}
 section[data-testid="stSidebar"] .stButton button[kind="primary"],
 section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"] {
-    background: var(--blue); color: #fff; justify-content: center; font-weight: 600; min-height: 2.7rem;}
+    background: var(--green); color: #fff; justify-content: center; font-weight: 600; min-height: 2.7rem;}
 section[data-testid="stSidebar"] .stButton button[kind="primary"]:hover,
-section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"]:hover {background: var(--blue-dark);}
+section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"]:hover {background: var(--green-dark);}
 section[data-testid="stSidebar"] .stButton button[kind="primary"] p,
 section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"] p {color: #fff; text-align: center;}
 
@@ -43,15 +40,9 @@ section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-prim
 .welcome {text-align: center; padding: 7vh 0 2.4rem;}
 .w-mark {width: 3.4rem; height: 3.4rem; margin: 0 auto 1.2rem;}
 .w-mark svg {width: 100%; height: 100%; display: block;}
-.w-hi {font-size: 2.7rem; font-weight: 800; letter-spacing: -.035em; line-height: 1.1; display: inline-block;
-       background: linear-gradient(90deg, var(--g1) 0%, var(--g2) 55%, var(--g3) 100%);
-       -webkit-background-clip: text; background-clip: text; color: transparent; -webkit-text-fill-color: transparent;}
+.w-hi {font-size: 2.7rem; font-weight: 800; letter-spacing: -.035em; line-height: 1.1; color: var(--green);}
 .w-sub {font-size: 1.5rem; font-weight: 600; letter-spacing: -.02em; color: var(--muted); margin-top: .5rem;}
 .w-note {text-align: center; font-size: .82rem; color: var(--muted); margin-top: 1.2rem;}
-.w-doc {display: flex; align-items: center; gap: .9rem; margin: 1rem 0 .4rem; padding: .9rem 1.1rem; text-align: left;
-    border: 1.5px dashed var(--line); border-radius: 16px; color: var(--muted); font-size: .88rem; line-height: 1.5;}
-.w-doc svg {width: 1.7rem; height: 1.7rem; flex: none; color: var(--link);}
-.w-doc strong {display: block; color: var(--ink); font-size: .95rem;}
 
 /* ---------- chat ---------- */
 [data-testid="stChatMessageAvatarUser"] {display: none;}
@@ -78,16 +69,16 @@ section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-prim
 [data-testid="stChatInput"] div, [data-testid="stChatInput"] textarea {background: transparent !important; color: var(--ink);}
 [data-testid="stChatInput"] button svg {fill: var(--muted); color: var(--muted);}
 [data-testid="stChatInput"] textarea::placeholder {color: var(--muted); opacity: 1;}
-[data-testid="stChatInput"]:focus-within {background: var(--focus-bg) !important; border-color: var(--blue);
+[data-testid="stChatInput"]:focus-within {background: var(--focus-bg) !important; border-color: var(--green);
     box-shadow: 0 4px 18px var(--shadow);}
 [data-testid="stChatInput"] textarea {font-size: 1rem;}
-[data-testid="stChatInputSubmitButton"] {background: var(--blue); color: #fff; border-radius: 50%;}
-[data-testid="stChatInputSubmitButton"]:hover {background: var(--blue-dark); color: #fff;}
+[data-testid="stChatInputSubmitButton"] {background: var(--green); color: #fff; border-radius: 50%;}
+[data-testid="stChatInputSubmitButton"]:hover {background: var(--green-dark); color: #fff;}
 [data-testid="stChatInput"] [data-testid="stChatInputSubmitButton"] svg {fill: #fff; color: #fff;}
 [data-testid="stBottom"]::after {content: var(--disclaimer); display: block; text-align: center;
     font-size: .76rem; color: var(--muted); padding: .55rem 1rem .8rem;}
 
-/* ---------- sources, notices, meta ---------- */
+/* ---------- sources and notices ---------- */
 .src-label {font-weight: 700; font-size: .92rem; margin: 1.1rem 0 .45rem; color: var(--ink);}
 .src-label .count {display: inline-block; min-width: 1.4rem; text-align: center; margin-left: .4rem; padding: 0 .45rem;
     border-radius: 999px; background: var(--active); color: var(--active-ink); font-size: .76rem; font-weight: 600;}
@@ -97,7 +88,6 @@ section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-prim
 .callout {border-radius: 14px; padding: .75rem 1.1rem; margin: .6rem 0; font-size: .92rem; line-height: 1.5;}
 .callout.info {background: var(--info-bg); color: var(--info-ink);}
 .callout.warn {background: var(--warn-bg); color: var(--warn-ink);}
-.meta {font-size: .78rem; color: var(--muted); margin-top: .6rem;}
 
 @media (max-width: 640px) {
     .w-hi {font-size: 2rem;}
