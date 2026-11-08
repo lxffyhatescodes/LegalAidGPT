@@ -1,0 +1,101 @@
+/*
+   base.css : the look shared by EVERY page (home, Explain a document, Analytics)
+
+   Colours are not written here. They are CSS variables like var(--ink) and
+   var(--bg). Their light and dark values live in ui/theme.py (LIGHT_VARS and
+   DARK_VARS), so changing a colour there changes it on every page.
+
+   ui/theme.py adds three things in front of this file when the page loads: the font
+   import, the light colours (:root) and the dark colours (@media prefers-color-scheme).
+   Sections: page and text | sidebar | page links | buttons | dropdowns |
+             text box and uploader | boxes, notices, numbers, charts
+*/
+
+html, body, .stApp, [data-testid="stAppViewContainer"], button, input, textarea, select {font-family: var(--font);}
+.stApp, [data-testid="stApp"], [data-testid="stAppViewContainer"], [data-testid="stMain"], .main {
+    background: var(--bg) !important; color: var(--ink);}
+#MainMenu, footer {visibility: hidden;}
+header[data-testid="stHeader"] {background: transparent !important;}
+header[data-testid="stHeader"] button, [data-testid="stSidebarCollapseButton"] button,
+[data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"] button {color: var(--muted) !important;}
+:focus-visible {outline: 3px solid rgba(77,107,254,.55) !important; outline-offset: 2px;}
+
+/* text colours follow the theme, whatever Streamlit's own theme is */
+[data-testid="stMarkdownContainer"] :is(p, li, h1, h2, h3, h4, strong, em, td, th),
+[data-testid="stHeading"], [data-testid="stHeading"] *, h1, h2, h3, h4,
+[data-testid="stWidgetLabel"] *, [data-testid="stRadio"] label p, [data-testid="stSpinner"] * {color: var(--ink);}
+[data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] * {color: var(--muted) !important;}
+pre, code {background: var(--surface) !important; color: var(--ink) !important;}
+
+/* ---------- sidebar ---------- */
+[data-testid="stSidebarNav"] {display: none;}
+section[data-testid="stSidebar"], section[data-testid="stSidebar"] > div {background: var(--side) !important; border-right: none;}
+.brand {display: flex; align-items: center; gap: .65rem; margin: .2rem 0 1.1rem;}
+.brand .mark {width: 2.2rem; height: 2.2rem; flex: none; display: block;}
+.brand .mark svg {width: 100%; height: 100%; display: block;}
+.wordmark {font-weight: 800; font-size: 1.15rem; letter-spacing: -.02em; color: var(--ink);}
+.side-title {font-weight: 600; font-size: .8rem; color: var(--muted); margin: 1.2rem .4rem .35rem;}
+.hist-active {background: var(--active); color: var(--active-ink); border-radius: 999px; padding: .55rem .95rem;
+              font-size: .9rem; font-weight: 600; margin: .1rem 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.side-note {font-size: .78rem; line-height: 1.5; color: var(--muted); margin: 0 .3rem;}
+[data-testid="stRadio"] label {font-size: .85rem;}
+
+/* page links: pills (the Back to home button in the page, plain rows in the sidebar) */
+[data-testid="stPageLink"] a, a[data-testid="stPageLink-NavLink"] {
+    display: inline-flex; align-items: center; border-radius: 999px; padding: .5rem 1.05rem;
+    background: var(--surface); color: var(--ink); font-size: .9rem; font-weight: 600; text-decoration: none;
+    transition: background .15s;}
+[data-testid="stPageLink"] a:hover, a[data-testid="stPageLink-NavLink"]:hover {background: var(--surface-hover);}
+[data-testid="stPageLink"] p, a[data-testid="stPageLink-NavLink"] p {color: var(--ink);}
+section[data-testid="stSidebar"] [data-testid="stPageLink"] a, section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"] {
+    display: flex; background: transparent; font-weight: 500;}
+section[data-testid="stSidebar"] [data-testid="stPageLink"] a:hover,
+section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"]:hover {background: var(--surface-hover);}
+
+/* ---------- buttons (pill look; the chat page restyles its own) ---------- */
+.stButton button {border-radius: 999px; border: none; background: var(--surface); color: var(--ink);
+    font-weight: 600; transition: background .15s;}
+.stButton button p {color: inherit;}
+.stButton button:hover {background: var(--surface-hover); color: var(--ink);}
+.stButton button[kind="primary"], .stButton button[data-testid="stBaseButton-primary"] {background: var(--blue); color: #fff;}
+.stButton button[kind="primary"]:hover, .stButton button[data-testid="stBaseButton-primary"]:hover {background: var(--blue-dark); color: #fff;}
+.stButton button:disabled {opacity: .5; cursor: not-allowed;}
+
+/* ---------- selectbox and its dropdown ---------- */
+[data-baseweb="select"] > div {border-radius: 12px; border-color: transparent; background: var(--field);}
+[data-baseweb="select"] > div:focus-within {border-color: var(--blue);}
+[data-baseweb="select"] div, [data-baseweb="select"] span, [data-baseweb="select"] input {color: var(--ink);}
+[data-baseweb="select"] svg {fill: var(--muted);}
+[data-baseweb="popover"], [data-baseweb="popover"] > div, [data-baseweb="menu"], [data-baseweb="menu"] ul {
+    background: var(--pop) !important; color: var(--ink);}
+[data-baseweb="menu"] li {background: transparent !important; color: var(--ink);}
+[data-baseweb="menu"] li:hover, [data-baseweb="menu"] li[aria-selected="true"] {background: var(--surface-hover) !important;}
+
+/* ---------- text area, file uploader ---------- */
+[data-testid="stTextArea"] textarea, [data-testid="stTextArea"] [data-baseweb="textarea"],
+[data-testid="stTextArea"] [data-baseweb="base-input"] {background: var(--field) !important; color: var(--ink) !important;}
+[data-testid="stTextArea"] [data-baseweb="textarea"] {border: 1px solid var(--line); border-radius: 14px;}
+[data-testid="stTextArea"] [data-baseweb="textarea"]:focus-within {border-color: var(--blue);}
+[data-testid="stFileUploaderDropzone"] {background: var(--field) !important; border: 1.5px dashed var(--line); border-radius: 14px; padding: .8rem;}
+[data-testid="stFileUploaderDropzone"] * {color: var(--muted);}
+[data-testid="stFileUploaderDropzone"] svg {fill: var(--muted);}
+[data-testid="stFileUploaderDropzone"] button {background: var(--surface-hover) !important; color: var(--ink) !important;
+    border: none; border-radius: 999px; font-weight: 600;}
+[data-testid="stFileUploaderFile"], [data-testid="stFileUploaderFile"] * {color: var(--ink);}
+[data-testid="stFileUploaderFile"] svg {fill: var(--muted);}
+[data-testid="stFileUploaderDeleteBtn"] button {background: transparent !important;}
+
+/* ---------- expander, notices, metrics, charts ---------- */
+[data-testid="stExpander"] {border: 1px solid var(--line); border-radius: 14px; background: var(--card); margin-bottom: .45rem;}
+[data-testid="stExpander"] details, [data-testid="stExpander"] summary {background: transparent !important;}
+[data-testid="stExpander"] summary {font-size: .9rem; font-weight: 500;}
+[data-testid="stExpander"] summary:hover p {color: var(--link);}
+[data-testid="stAlert"] {border-radius: 14px; background: var(--info-bg) !important; color: var(--info-ink);}
+[data-testid="stAlert"] div, [data-testid="stAlert"] p {background: transparent !important; color: inherit !important;}
+[data-testid="stAlert"]:has([data-testid="stAlertContentWarning"]) {background: var(--warn-bg) !important; color: var(--warn-ink);}
+[data-testid="stAlert"]:has([data-testid="stAlertContentError"]) {background: var(--urgent-bg) !important; color: var(--urgent-ink);}
+[data-testid="stMetric"] {background: var(--surface); border-radius: 14px; padding: .9rem 1.1rem;}
+[data-testid="stMetricLabel"], [data-testid="stMetricLabel"] * {color: var(--muted) !important;}
+[data-testid="stMetricValue"], [data-testid="stMetricValue"] * {color: var(--ink) !important;}
+[data-testid="stVegaLiteChart"], [data-testid="stArrowVegaLiteChart"] {filter: var(--chart-filter);}
+@media (prefers-reduced-motion: reduce) {* {transition: none !important;}}
