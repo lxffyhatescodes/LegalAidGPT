@@ -1,0 +1,100 @@
+/*
+   chat.css : extra styling for the CHAT page only (ui/app.py)
+
+   The shared colours and basics come from base.css. This file only adds the
+   chat-specific parts: welcome screen, suggestion cards, message bubbles,
+   the message box at the bottom, and the sources under each answer.
+
+   ui/app.py adds three things after this file when the page loads: the small icons on the
+   suggestion cards, the logo shown as the assistant's avatar, and the disclaimer text
+   (stored in the variable --disclaimer).
+*/
+
+.block-container {max-width: 860px; padding-top: 2rem; padding-bottom: 7rem;}
+
+/* ---------- buttons on this page: starter cards, and pills in the sidebar ---------- */
+.stButton button {
+    position: relative; display: flex; align-items: flex-start; justify-content: flex-start;
+    height: auto; min-height: 8.6rem; padding: 1rem 1rem 3.4rem; text-align: left; line-height: 1.4;
+    background: var(--surface); border: none; border-radius: 16px; color: var(--ink); font-weight: 500;
+    transition: background .15s;}
+.stButton button:hover {background: var(--surface-hover); color: var(--ink);}
+.stButton button p {text-align: left; font-size: .9rem; line-height: 1.45;}
+.stButton button::after {content: ""; position: absolute; right: .8rem; bottom: .8rem; width: 2.5rem; height: 2.5rem;
+    border-radius: 50%; background: var(--circle) center / 1.3rem no-repeat;}
+section[data-testid="stSidebar"] .stButton button {
+    min-height: 2.4rem; padding: .45rem .95rem; border-radius: 999px; background: transparent;
+    align-items: center; font-size: .9rem;}
+section[data-testid="stSidebar"] .stButton button::after {display: none;}
+section[data-testid="stSidebar"] .stButton button p {white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;}
+section[data-testid="stSidebar"] .stButton button:hover {background: var(--surface-hover);}
+section[data-testid="stSidebar"] .stButton button[kind="primary"],
+section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"] {
+    background: var(--green); color: #fff; justify-content: center; font-weight: 600; min-height: 2.7rem;}
+section[data-testid="stSidebar"] .stButton button[kind="primary"]:hover,
+section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"]:hover {background: var(--green-dark);}
+section[data-testid="stSidebar"] .stButton button[kind="primary"] p,
+section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-primary"] p {color: #fff; text-align: center;}
+
+/* ---------- welcome ---------- */
+.welcome {text-align: center; padding: 7vh 0 2.4rem;}
+.w-mark {width: 3.4rem; height: 3.4rem; margin: 0 auto 1.2rem;}
+.w-mark svg {width: 100%; height: 100%; display: block;}
+.w-hi {font-size: 2.7rem; font-weight: 800; letter-spacing: -.035em; line-height: 1.15; width: fit-content; margin: 0 auto;
+      color: var(--green-dark);   /* fallback if gradient text is unsupported */
+      background: linear-gradient(90deg, #2FD08A 0%, #00A86B 35%, #006B3F 70%, #003D22 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;}
+.w-sub {font-size: 1.5rem; font-weight: 600; letter-spacing: -.02em; color: var(--muted); margin-top: .5rem;}
+.w-note {text-align: center; font-size: .82rem; color: var(--muted); margin-top: 1.2rem;}
+
+/* ---------- chat ---------- */
+[data-testid="stChatMessageAvatarUser"] {display: none;}
+[data-testid="stChatMessage"] {background: transparent !important; padding: .6rem 0; gap: .85rem;}
+[data-testid="stChatMessageAvatarAssistant"] {
+    background-color: transparent !important;
+    background-size: cover; background-repeat: no-repeat; border-radius: 10px; color: transparent;
+    width: 2rem; height: 2rem; flex: none;}
+[data-testid="stChatMessageAvatarAssistant"] > * {visibility: hidden;}
+[data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarUser"]) {flex-direction: row-reverse;}
+[data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarUser"]) [data-testid="stChatMessageContent"] {
+    background: var(--surface); border-radius: 20px; padding: .7rem 1.15rem; width: fit-content; max-width: 80%; margin-left: auto;}
+[data-testid="stChatMessageContent"] {font-size: 1rem; line-height: 1.75;}
+[data-testid="stChatMessageContent"] h1, [data-testid="stChatMessageContent"] h2, [data-testid="stChatMessageContent"] h3 {
+    font-size: 1.15rem; font-weight: 700; letter-spacing: -.01em; margin: 1.1rem 0 .3rem; padding: 0;}
+[data-testid="stChatMessageContent"] a {color: var(--link);}
+[data-testid="stChatMessageContent"] li::marker {color: var(--link);}
+[data-testid="stChatMessageContent"] blockquote {border-left: 3px solid var(--active); color: var(--muted);}
+
+/* ---------- input ---------- */
+[data-testid="stBottom"], [data-testid="stBottom"] > div {background: transparent !important;}
+[data-testid="stChatInput"] {border-radius: 28px; border: 1.5px solid transparent; background: var(--surface) !important;
+    box-shadow: none; transition: background .15s, box-shadow .15s;}
+[data-testid="stChatInput"] div, [data-testid="stChatInput"] textarea {background: transparent !important; color: var(--ink);}
+[data-testid="stChatInput"] button svg {fill: var(--muted); color: var(--muted);}
+[data-testid="stChatInput"] textarea::placeholder {color: var(--muted); opacity: 1;}
+[data-testid="stChatInput"]:focus-within {background: var(--focus-bg) !important; border-color: var(--green);
+    box-shadow: 0 4px 18px var(--shadow);}
+[data-testid="stChatInput"] textarea {font-size: 1rem;}
+[data-testid="stChatInputSubmitButton"] {background: var(--green); color: #fff; border-radius: 50%;}
+[data-testid="stChatInputSubmitButton"]:hover {background: var(--green-dark); color: #fff;}
+[data-testid="stChatInput"] [data-testid="stChatInputSubmitButton"] svg {fill: #fff; color: #fff;}
+[data-testid="stBottom"]::after {content: var(--disclaimer); display: block; text-align: center;
+    font-size: .76rem; color: var(--muted); padding: .55rem 1rem .8rem;}
+
+/* ---------- sources and notices ---------- */
+.src-label {font-weight: 700; font-size: .92rem; margin: 1.1rem 0 .45rem; color: var(--ink);}
+.src-label .count {display: inline-block; min-width: 1.4rem; text-align: center; margin-left: .4rem; padding: 0 .45rem;
+    border-radius: 999px; background: var(--active); color: var(--active-ink); font-size: .76rem; font-weight: 600;}
+.urgent {border-radius: 14px; padding: .85rem 1.1rem; background: var(--urgent-bg); color: var(--urgent-ink);
+         margin-bottom: .9rem; font-size: .95rem; line-height: 1.5;}
+.urgent strong {font-size: 1.02rem; color: var(--urgent-strong);}
+.callout {border-radius: 14px; padding: .75rem 1.1rem; margin: .6rem 0; font-size: .92rem; line-height: 1.5;}
+.callout.info {background: var(--info-bg); color: var(--info-ink);}
+.callout.warn {background: var(--warn-bg); color: var(--warn-ink);}
+
+@media (max-width: 640px) {
+    .w-hi {font-size: 2rem;}
+    .w-sub {font-size: 1.2rem;}
+    .stButton button {min-height: 6.4rem;}
+}
