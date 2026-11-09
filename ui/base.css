@@ -2,19 +2,20 @@
    base.css : the look shared by EVERY page (home, Explain a document, Analytics)
 
    Colours are not written here. They are CSS variables like var(--ink) and
-   var(--bg). Their light and dark values live in ui/theme.py (LIGHT_VARS and
-   DARK_VARS), so changing a colour there changes it on every page.
+   var(--bg). Their values live in ui/theme.py (VARS), so changing a colour
+   there changes it on every page.
 
-   ui/theme.py adds three things in front of this file when the page loads: the font
-   import, the light colours (:root) and the dark colours (@media prefers-color-scheme).
+   ui/theme.py adds two things in front of this file when the page loads: the font
+   import and the colours (:root).
    Sections: page and text | sidebar | page links | buttons | dropdowns |
              text box and uploader | boxes, notices, numbers, charts
 */
 
 html, body, .stApp, [data-testid="stAppViewContainer"], button, input, textarea, select {font-family: var(--font);}
-.stApp, [data-testid="stApp"], [data-testid="stAppViewContainer"], [data-testid="stMain"], .main {
-    background: var(--bg) !important; color: var(--ink);}
-#MainMenu, footer {visibility: hidden;}
+.stApp, [data-testid="stApp"] {background: var(--bg) !important; background-attachment: fixed !important; color: var(--ink);}
+[data-testid="stAppViewContainer"], [data-testid="stMain"], .main {background: transparent !important; color: var(--ink);}
+/* the 3-dot menu holds Streamlit's Light / Dark / System theme choice, so it is hidden; the app is always light */
+#MainMenu, [data-testid="stMainMenu"], [data-testid="stAppDeployButton"], footer {display: none !important;}
 header[data-testid="stHeader"] {background: transparent !important;}
 header[data-testid="stHeader"] button, [data-testid="stSidebarCollapseButton"] button,
 [data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"] button {color: var(--muted) !important;}
@@ -29,7 +30,7 @@ pre, code {background: var(--surface) !important; color: var(--ink) !important;}
 
 /* ---------- sidebar ---------- */
 [data-testid="stSidebarNav"] {display: none;}
-section[data-testid="stSidebar"], section[data-testid="stSidebar"] > div {background: var(--side) !important; border-right: none;}
+section[data-testid="stSidebar"], section[data-testid="stSidebar"] > div {background: var(--side) !important; border-right: 1px solid var(--line);}
 .brand {display: flex; align-items: center; gap: .65rem; margin: .2rem 0 1.1rem;}
 .brand .mark {width: 2.2rem; height: 2.2rem; flex: none; display: block;}
 .brand .mark svg {width: 100%; height: 100%; display: block;}
@@ -38,7 +39,8 @@ section[data-testid="stSidebar"], section[data-testid="stSidebar"] > div {backgr
 .hist-active {background: var(--active); color: var(--active-ink); border-radius: 999px; padding: .55rem .95rem;
               font-size: .9rem; font-weight: 600; margin: .1rem 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 .side-note {font-size: .78rem; line-height: 1.5; color: var(--muted); margin: 0 .3rem;}
-[data-testid="stRadio"] label {font-size: .85rem;}
+.topic-note {font-size: .8rem; line-height: 1.55; color: var(--active-ink); background: var(--topic-bg);
+             border-radius: 14px; padding: .65rem .85rem; margin: 0 .2rem;}
 
 /* page links: pills (the Back to home button in the page, plain rows in the sidebar) */
 [data-testid="stPageLink"] a, a[data-testid="stPageLink-NavLink"] {
@@ -97,5 +99,4 @@ section[data-testid="stSidebar"] a[data-testid="stPageLink-NavLink"]:hover {back
 [data-testid="stMetric"] {background: var(--surface); border-radius: 14px; padding: .9rem 1.1rem;}
 [data-testid="stMetricLabel"], [data-testid="stMetricLabel"] * {color: var(--muted) !important;}
 [data-testid="stMetricValue"], [data-testid="stMetricValue"] * {color: var(--ink) !important;}
-[data-testid="stVegaLiteChart"], [data-testid="stArrowVegaLiteChart"] {filter: var(--chart-filter);}
 @media (prefers-reduced-motion: reduce) {* {transition: none !important;}}

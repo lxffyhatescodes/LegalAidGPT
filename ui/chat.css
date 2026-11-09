@@ -40,7 +40,11 @@ section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-prim
 .welcome {text-align: center; padding: 7vh 0 2.4rem;}
 .w-mark {width: 3.4rem; height: 3.4rem; margin: 0 auto 1.2rem;}
 .w-mark svg {width: 100%; height: 100%; display: block;}
-.w-hi {font-size: 2.7rem; font-weight: 800; letter-spacing: -.035em; line-height: 1.1; color: var(--green);}
+.w-hi {font-size: 2.7rem; font-weight: 800; letter-spacing: -.035em; line-height: 1.15; width: fit-content; margin: 0 auto;
+      color: var(--green-dark);   /* fallback if gradient text is unsupported */
+      background: linear-gradient(90deg, #2FD08A 0%, #00A86B 35%, #006B3F 70%, #003D22 100%);
+      -webkit-background-clip: text; background-clip: text;
+      -webkit-text-fill-color: transparent;}
 .w-sub {font-size: 1.5rem; font-weight: 600; letter-spacing: -.02em; color: var(--muted); margin-top: .5rem;}
 .w-note {text-align: center; font-size: .82rem; color: var(--muted); margin-top: 1.2rem;}
 
@@ -63,7 +67,7 @@ section[data-testid="stSidebar"] .stButton button[data-testid="stBaseButton-prim
 [data-testid="stChatMessageContent"] blockquote {border-left: 3px solid var(--active); color: var(--muted);}
 
 /* ---------- input ---------- */
-[data-testid="stBottom"], [data-testid="stBottom"] > div {background: var(--bg) !important;}
+[data-testid="stBottom"], [data-testid="stBottom"] > div {background: transparent !important;}
 [data-testid="stChatInput"] {border-radius: 28px; border: 1.5px solid transparent; background: var(--surface) !important;
     box-shadow: none; transition: background .15s, box-shadow .15s;}
 [data-testid="stChatInput"] div, [data-testid="stChatInput"] textarea {background: transparent !important; color: var(--ink);}

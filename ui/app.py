@@ -6,16 +6,16 @@ Anything that must survive between runs (the chats) is kept in st.session_state.
 
 How the file is organised, top to bottom:
   1. Page setup            tab title, icon, layout
-  2. Look and feel         loads the colours (light and dark) and chat.css
+  2. Look and feel         loads the green and white colours and chat.css
   3. Chat history          how chats are stored and how "New chat" works
   4. Helpers               small functions that draw an answer
-  5. Sidebar (top)         logo, New chat, topic picker
+  5. Sidebar (top)         logo, New chat, topics caption
   6. The question handler  sends a question to the backend and shows the answer
   7. Main area             welcome screen, past messages, the message box
-  8. Sidebar (bottom)      recent chats, links, appearance switch
+  8. Sidebar (bottom)      recent chats, links to other pages
 
 The backend is only touched in two places: `ask(...)` in section 6, and the values
-read from assistant/config.py (topics, sample questions, disclaimer, demo mode).
+read from assistant/config.py (topics, sample questions, disclaimer).
 """
 import html
 import re
@@ -161,11 +161,17 @@ with st.sidebar:
 
     history_slot = st.container()          # "Recent" chats go here (section 8)
 
-    st.markdown("<div class='side-title'>Topic</div>", unsafe_allow_html=True)
-    topic_label = st.selectbox("Topic", list(config.TOPICS.keys()), label_visibility="collapsed")
-    topic_tag = config.TOPICS[topic_label]  # None means "all topics"
+    # No topic picker: every question is searched across all topics (no filter).
+    topic_tag = None
+    topic_names = [t for t in config.TOPICS if config.TOPICS[t]]
+    st.markdown("<div class='side-title'>Topics covered</div>", unsafe_allow_html=True)
+    st.markdown(
+        "<div class='topic-note'>All the information from every topic is included in your answers: "
+        + html.escape(", ".join(topic_names)) + ".</div>",
+        unsafe_allow_html=True,
+    )
 
-    links_slot = st.container()            # links and the appearance switch go here (section 8)
+    links_slot = st.container()            # links to the other pages go here (section 8)
 
 
 # 6. THE QUESTION HANDLER  (the only place that calls the backend)
@@ -258,7 +264,3 @@ with links_slot:
         "other sensitive personal information.</div>",
         unsafe_allow_html=True,
     )
-    theme.appearance_picker()
-    if config.USE_MOCK:
-        st.markdown("<div class='side-note' style='margin-top:.5rem'>Demo mode: placeholder data.</div>",
-                    unsafe_allow_html=True)
